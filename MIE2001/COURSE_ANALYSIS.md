@@ -1,207 +1,152 @@
 # MIE2001 — Foundations of Entrepreneurship
 
-## Course Analysis & Curriculum Design Proposal
+## Module Analysis & Curriculum Design
 
-**Target:** First-year students, Business Design School, Singapore Institution of Technology (SIT)  
-**Class Size Scenario:** ~30-50 students per cohort  
-**Duration:** One semester (13 weeks typical)  
-**Prerequisites:** None (foundational module)
-
----
-
-## 1. Course Scope & Positioning Analysis
-
-### 1.1 Market Context — Entrepreneurship Education in Singapore
-
-| Factor | Assessment |
-|--------|------------|
-| **National priority** | High — SG Innovation & Enterprise 2025, Startup SG, ACE.SG ecosystem |
-| **SIT's positioning** | Applied learning university with strong industry partnerships |
-| **Target student profile** | Digital-native Gen Z, business-curious, many from applied polytechnic pathways |
-| **Competing courses** | NUS Entrepreneurship Centre, SMU Institute for Innovation & Entrepreneurship, SUTD |
-| **SIT differentiator** | Hands-on, industry-integrated, design-thinking focused (Business Design School) |
-
-### 1.2 Why This Module Matters for SIT Business Design Students
-
-- First year = critical window to instill entrepreneurial mindset before specialization
-- Business Design School = natural home for venture creation
-- Singapore's startup ecosystem needs more technically-capable founders (not just business grads)
-- Many SIT students come from polytechnic entrepreneurship programs — need to bridge to university-level rigor
-
-### 1.3 TAM for Entrepreneurship Education in Singapore
-
-| Metric | Estimate |
-|--------|----------|
-| TAM | All university business/design students in Singapore (~5,000/year) |
-| SAM | SIT Business Design School (~150-200/year across cohorts) |
-| SOM | One section of MIE2001 (~30-50 students) |
+**Target:** First-year students, Business Design School (BDS), Singapore Institute of Technology (SIT)  
+**Duration:** One semester (13 weeks)  
+**Prerequisites:** None — foundational module
 
 ---
 
-## 2. Module Objectives — Deconstructed
+## 1. Learning Outcomes & Topic Mapping
 
-The module descriptor gives three core objectives. Here's what they mean in practice:
+### Five Learning Outcomes → Major Topics
 
-### Objective 1: Develop an Entrepreneurial Mindset
-**What this means for first-year students:**
-- Shift from "employee thinking" to "creator thinking"
-- Embrace ambiguity and uncertainty as normal
-- Develop opportunity recognition (seeing problems as business ideas)
-- Build resilience and comfort with failure
-- Understand personal motivation: why start a business?
+| # | Learning Outcome | Primary Topics | Assessment Link |
+|---|---|---|---|
+| **LO1** | Interpret the effectual entrepreneurship principles | Entrepreneurship mindset; Effectuation principles (bird-in-hand, affordable loss, crazy quilt, lemonade, pilot-in-the-plane) | Weekly reflections; Mid-term pitch |
+| **LO2** | Apply creative problem-solving and critical thinking to analyze real-world business challenges and propose innovative solutions | Design thinking procedures; Opportunity recognition and assessment; Lean startup principles | Customer discovery report; BMC |
+| **LO3** | Identify opportunities in the business environment and assess the feasibility of new business ideas | Opportunity recognition; Customer discovery; Market assessment; MVP testing | Customer discovery report; Final pitch |
+| **LO4** | Demonstrate entrepreneurial leadership and communication skills, including teamwork, negotiation and ethical decision-making, in diverse and dynamic environments | The startup team; Choosing customers; Pitching to investors | Team charter; Final pitch; Peer evaluation |
+| **LO5** | Develop innovative solutions to challenges of different industries | Design thinking; Business model canvas; Project finance; Industry case studies | Business Model Canvas; Final pitch |
 
-**Key concepts to cover:**
-- Fixed vs. growth mindset (Dweck)
-- Effectuation vs. causation (Sarasvathy)
+### Module's Seven Topics → Week-by-Week
+
+| Official Topic | Weeks | Key Content |
+|----------------|-------|-------------|
+| **1. Entrepreneurship mindset & effectual entrepreneurship principles** | 1-2 | Growth mindset, 5 effectuation principles, entrepreneurial identity |
+| **2. Design thinking procedures** | 3 | Problem-framing, ideation, prototyping (d.school 5-step model) |
+| **3. Opportunity recognition & assessment** | 4-5 | Problem-first approach, customer discovery, market sizing |
+| **4. Lean startup principles, MVP, and the startup team** | 6-8 | Build-Measure-Learn, MVP design, co-founder dynamics, team building |
+| **5. Choosing customers** | 9 | Customer segments, personas, channels, go-to-market |
+| **6. Project finance & pitching to investors** | 10-11 | Unit economics, break-even, fundraising, pitch deck structure |
+| **7. Business models & building blocks of business model canvas** | 12 | BMC deep dive, value proposition design, revenue models |
+
+---
+
+## 2. Thirteen-Week Curriculum Map
+
+| Week | Topic (Official) | Lecture Focus | In-Class Activity | Deliverable |
+|------|------------------|---------------|-------------------|-------------|
+| **1** | Entrepreneurship mindset | What is entrepreneurship? Myths vs. reality; Growth mindset (Dweck); Introduction to **Effectuation** (Sarasvathy's 5 principles) | "Pitch a Bad Idea" icebreaker | Reflection: "My relationship with entrepreneurship" |
+| **2** | Effectual entrepreneurship principles | Deep dive: Bird-in-hand, Affordable Loss, Crazy Quilt, Lemonade, Pilot-in-the-Plane; Causation vs. Effectuation; Apply to real cases | Case analysis: identify effectuation in a Singapore startup story | Reflection: applying effectuation to a personal decision |
+| **3** | Design thinking procedures | Stanford d.school 5 stages: Empathize → Define → Ideate → Prototype → Test; Design thinking for business model innovation | **Mini design sprint:** solve a campus problem in 90 min | Problem statements (3) for potential ventures |
+| **4** | Opportunity recognition | Problem-first approach; Jobs-to-be-done; Sources of opportunity (tech shifts, demographic changes, industry inefficiencies); The Napkin Test | **Campus scavenger hunt:** find 10 frustrations | Top 3 ranked problem statements |
+| **5** | Opportunity assessment & customer discovery | Market sizing (TAM/SAM/SOM); Competitive analysis; The Mom Test; Customer interview techniques | **Role-play:** bad interview vs. good interview; market sizing worksheet | Customer discovery report (due Week 7) — interview notes + problem validation |
+| **6** | Lean startup & MVP | Build-Measure-Learn feedback loop; MVP definition; Riskiest assumption testing; Concierge MVP vs. Wizard of Oz | **MVP design sprint:** identify riskiest assumption, design cheapest test | MVP test plan |
+| **7** | **Mid-term check-in** | **5-min pitches** + peer feedback; Course correction | Team pitch + class feedback | Revised problem statement + draft BMC |
+| **8** | The startup team | Co-founder dynamics; Equity splits; Vesting; Team charter; Ethical decision-making in startups | **Team charter negotiation:** roles, decision rules, conflict resolution | Signed team charter |
+| **9** | Choosing customers | Customer segmentation; Persona creation; Channel selection; Bullseye framework; **Singapore-specific channels** (Carousell, Telegram, WhatsApp) | **Channel brainstorming:** 10 channels → rank by reach × cost | Customer persona + channel strategy (1 page) |
+| **10** | Business model canvas | All 9 blocks; Value Proposition Canvas; Building coherent models; Case: Grab's BMC evolution | **BMC poster session** (gallery walk + sticky feedback) | Draft BMC |
+| **11** | Project finance | Startup costs; Revenue models; Unit economics (CAC, LTV); Break-even analysis; Bootstrapping vs. fundraising; **Singapore grant landscape** | **Financial model workshop** — fill template together | Financial model (Google Sheets) |
+| **12** | Pitching to investors | Pitch deck structure; Storytelling; Handling Q&A; The Ask; Common investor questions | **Pitch practice:** 5-min pitch + video record + self-critique | First draft of pitch deck |
+| **13** | **Final presentations** | 7-min investor pitch + Q&A | Judging panel (instructors + guest entrepreneurs) | Final pitch deck + business plan (exec summary + BMC + 1-page financials) |
+
+---
+
+## 3. Effectuation Framework — Core to LO1
+
+Since **LO1** specifically calls out "effectual entrepreneurship principles," this must be a central theme. The 5 principles:
+
+| Principle | Meaning | Classroom Exercise |
+|-----------|---------|-------------------|
+| **Bird-in-Hand** | Start with who you are, what you know, whom you know | "My personal startup resources" worksheet |
+| **Affordable Loss** | Invest only what you can afford to lose | Calculate: what's YOUR affordable loss as a student? |
+| **Crazy Quilt** | Build partnerships, don't compete | Speed networking: find 3 potential partners |
+| **Lemonade** | Embrace surprises; turn bad news into opportunity | Case: unexpected pivot stories |
+| **Pilot-in-the-Plane** | Focus on what you can control, not predictions | Scenario planning exercise |
+
+**Assessment connection:** LO1 is assessed through weekly reflections (applying effectuation principles to real decisions) and the mid-term pitch (do students think effectually about their venture?).
+
+---
+
+## 4. Assessment Structure Aligned to Learning Outcomes
+
+| Component | Weight | Assessed Outcomes | Description |
+|-----------|--------|-------------------|-------------|
+| **Weekly Reflections** | 15% | LO1, LO2 | 250 words applying weekly topic to personal experience |
+| **Customer Discovery Report** | 20% | LO2, LO3 | Interview 5+ people; validate problem; market sizing |
+| **Business Model Canvas** | 20% | LO3, LO5 | 9 blocks + justification; iterated from draft to final |
+| **Pitch Deck + Presentation** | 25% | LO4, LO5 | 7-min pitch to panel; Q&A handling |
+| **Participation & Peer Evaluation** | 20% | LO4 | Class contribution; team charter; peer ratings |
+
+---
+
+## 5. Core Concepts Taxonomy
+
+Grouped for clarity across the 13 weeks:
+
+### Entrepreneurial Mindset (Weeks 1-2)
+- Growth vs. fixed mindset
+- 5 effectuation principles
+- Causation vs. effectuation
 - Entrepreneurial self-efficacy
-- Risk perception and risk mitigation
-- The Lean Startup philosophy (Ries)
+- Risk perception & mitigation
 
-### Objective 2: Identify and Validate Business Opportunities
-**What this means:**
-- Systematic opportunity recognition (not waiting for a "eureka" moment)
-- Problem validation: is this a real problem people will pay to solve?
-- Customer discovery: get out of the building
-- Market sizing: is this opportunity worth pursuing?
-- Competitive analysis: why will customers choose you?
-
-**Key concepts to cover:**
-- Jobs-to-be-done framework (Christensen)
-- Problem-solution fit
-- MVP design and testing
-- Customer interviews
+### Design & Discovery (Weeks 3-5)
+- Design thinking 5-stage model
+- Problem-framing
+- Customer discovery & interviews
+- Jobs-to-be-done
 - Market sizing (TAM/SAM/SOM)
-- Blue Ocean vs. Red Ocean strategy
+- Competitive analysis
 
-### Objective 3: Create Business Model Canvas & Write a Business Plan
-**What this means:**
-- Business Model Canvas as a living document (not static)
-- Value proposition design
-- Revenue models and pricing
-- Go-to-market strategy
-- Financial projections for non-finance students
-- Pitch deck creation
-- Business plan as a fundraising document
+### Build & Test (Weeks 6-8)
+- Lean startup: Build-Measure-Learn
+- MVP design & testing
+- Riskiest assumption
+- Team dynamics
+- Co-founder equity
 
-**Key concepts to cover:**
-- Business Model Canvas (Osterwalder)
+### Customers & Business Model (Weeks 9-10)
+- Customer segmentation
+- Personas
+- Channel strategy
+- Business Model Canvas (9 blocks)
 - Value Proposition Canvas
-- Lean Canvas (Maurya) — simpler for first-years
-- Unit economics
+
+### Finance & Pitching (Weeks 11-12)
+- Revenue models
+- Unit economics (CAC, LTV)
 - Break-even analysis
-- Pitch structure (problem → solution → market → traction → team)
+- Fundraising vs. bootstrapping
+- Pitch deck structure
+- Storytelling
 
 ---
 
-## 3. Major Topics — Week-by-Week Curriculum Map
+## 6. Reading List (Aligned to Topics)
 
-| Week | Topic | Key Activities | Deliverable |
-|------|-------|----------------|-------------|
-| **1** | **What is Entrepreneurship?** — Mindsets, myths, and motivations | Icebreaker: pitch a bad idea. Guest speaker: SIT alumni founder | Reflection: "Why I would/wouldn't start a business" |
-| **2** | **Opportunity Recognition** — Seeing problems as business ideas | Field trip: walk around campus/Kampong Glam, spot 10 problems | Problem list (10 problems, rank by interest) |
-| **3** | **Customer Discovery** — The Mom Test, interviewing skills | Role-play customer interviews. Homework: interview 5 people | Interview notes + problem validation report |
-| **4** | **Market Sizing & Analysis** — TAM/SAM/SOM, competitive landscape | Case study: analyze a Singapore startup's market | Market sizing worksheet |
-| **5** | **Business Model Canvas** — 9 building blocks | In-class BMC workshop on their idea | Draft BMC poster |
-| **6** | **Value Proposition & MVP** — Jobs-to-be-done, minimum viable product | Paper prototype / landing page test | MVP sketch + test results |
-| **7** | **Mid-term Presentations** — 5-min pitches with feedback | Peer feedback session | Refined BMC + 5-slide pitch deck |
-| **8** | **Revenue Models & Pricing** — How startups make money | Case study: Grab vs. Gojek pricing models | Pricing strategy for their venture |
-| **9** | **Financial Basics for Entrepreneurs** — Unit economics, break-even, bootstrapping | Simple spreadsheet exercise | Financial model (Google Sheets) |
-| **10** | **Go-to-Market Strategy** — Channels, partnerships, marketing on a budget | Singapore-specific: how to reach local customers | GTM plan (1-page) |
-| **11** | **Pitching & Storytelling** — The art of the pitch deck | Pitch practice, video recording, peer critique | 10-slide pitch deck |
-| **12** | **Building Your Team & Founder Stories** — Co-founder dynamics, equity, culture | Founder panel (invite 2-3 local founders) | Team charter document |
-| **13** | **Final Presentations + Course Wrap** | 7-min investor pitch + Q&A | Final pitch deck + Business Plan (exec summary + BMC) |
-
-### Key Pedagogical Principles for First-Year Students
-
-1. **Learn by doing** — Every week has an active exercise, not just lecture
-2. **Singapore-centric** — All examples, cases, and guest speakers from Singapore ecosystem
-3. **Low-fidelity first** — BMC is easier than a full business plan; iterate before writing
-4. **Peer learning** — Form teams in Week 2, work on same idea all semester
-5. **Fail fast, fail cheap** — Validate with 5 customer interviews, not a $10k prototype
-6. **No finance fear** — Financial model is simple; Excel literacy assumed, advanced math not required
+| Topic | Core Reading | Supplementary |
+|-------|-------------|---------------|
+| Effectuation | "What Makes Entrepreneurs Entrepreneurial?" (Sarasvathy, HBR) | "Effectual Entrepreneurship" (Read et al.) |
+| Design thinking | "Design Thinking" (Tim Brown, HBR) | "Change by Design" (Brown) |
+| Opportunity recognition | "The Mom Test" (Fitzpatrick) | "The Right It" (Savvides) |
+| Lean startup / MVP | "The Lean Startup" (Ries) — Ch 6-8 | "Running Lean" (Maurya) |
+| Business models | "Business Model Generation" (Osterwalder) Ch 1-2 | "Value Proposition Design" (Osterwalder) |
+| Project finance | "Financial Intelligence for Entrepreneurs" (Berman) — Ch 1-5 | "Venture Deals" (Feld) |
+| Pitching | "The Art of the Start" (Kawasaki) | "Pitch Anything" (Klaff) |
 
 ---
 
-## 4. Recommended Textbook & Readings
+## 7. Pedagogical Approach for First-Year Business Design Students
 
-### Primary Text
-- **"The Lean Startup"** (Eric Ries) — Core philosophy
-- **"Business Model Generation"** (Osterwalder & Pigneur) — BMC framework
-- **"The Mom Test"** (Rob Fitzpatrick) — Customer discovery
-
-### Singapore-Specific Readings
-- **"Startup Singapore"** (various, ACE.SG publications)
-- **Singapore Department of Statistics** — SME data, industry reports
-- **Case studies from SIT alumni** (if available)
-
-### Supplementary (for stronger students)
-- **"Zero to One"** (Peter Thiel)
-- **"Disciplined Entrepreneurship"** (Bill Aulet)
-- **"The Hard Thing About Hard Things"** (Ben Horowitz)
-
----
-
-## 5. Assessment Structure
-
-| Component | Weight | Description | Group/Individual |
-|-----------|--------|-------------|------------------|
-| **Weekly Reflections** | 15% | 250-word reflection on weekly exercise | Individual |
-| **Customer Discovery Report** | 20% | Interview analysis + validated problem statement | Group |
-| **Business Model Canvas** | 20% | Final BMC with all 9 blocks justified | Group |
-| **Pitch Deck + Presentation** | 25% | 7-min pitch + Q&A | Group |
-| **Participation & Peer Feedback** | 20% | In-class contributions, peer evaluations | Individual |
-
----
-
-## 6. Tools & Platforms Recommendation
-
-| Tool | Purpose | Cost |
-|------|---------|------|
-| **Mural / Miro** | BMC workshop, collaboration | Free for education |
-| **Canva** | Pitch deck design | Free tier |
-| **Google Sheets** | Financial model | Free |
-| **Typeform / Google Forms** | Customer surveys | Free |
-| **Notion** | Team workspace, reflection journal | Free for education |
-| **Landing page builders** (Carrd, Webflow) | MVP testing | Free tier |
-
----
-
-## 7. Key Singapore Ecosystem Resources to Reference
-
-| Resource | What it offers for students |
-|----------|----------------------------|
-| **ACE.SG** | Startup grants, mentorship, events |
-| **Enterprise Singapore** | Market expansion support, grants |
-| **Startup SG** | Funding, networking, talent programs |
-| **BLOCK71** | Incubator/accelerator (NUS enterprise) |
-| **SGInnovate** | Deep tech funding, talent programs |
-| **Action Community for Entrepreneurship** | Ecosystem support, founder matching |
-| **SIT's own Innovation & Entrepreneurship office** | Incubation, IP support, competitions |
-
----
-
-## 8. Potential Challenges & Mitigations
-
-| Challenge | Mitigation |
-|-----------|------------|
-| First-years have limited industry exposure | Use campus-based problems, not complex B2B |
-| Finance anxiety | Keep financials simple; spreadsheet template provided |
-| Team conflicts | Peer evaluation mid-term; team charter in Week 2 |
-| "I don't have an idea" | Problem identification exercises in Week 2-3 |
-| Singapore market is small | Frame: "start in Singapore, scale globally" |
-| Pitch anxiety | Multiple low-stakes practice rounds before final |
-
----
-
-## 9. Open Questions for Course Lead
-
-1. **Team formation** — Self-select or instructor-assigned? Recommended: students pitch ideas Week 2, teams form organically
-2. **Guest speakers** — SIT alumni founders available? If yes, schedule in Weeks 1 (intro) and 12 (founder stories)
-3. **Grading philosophy** — Grade the process (customer discovery, iterations) or the outcome (viable business)? Recommend: 70% process, 30% outcome
-4. **Startup funding simulation** — Include a "virtual grant" exercise? (e.g., students pitch for $10k mock funding)
-5. **Industry partner involvement** — Can SIT connect students with real industry problems to validate?
-6. **Textbook** — Do students buy, or are readings provided as PDFs via SIT library?
-
----
-
-*Analysis prepared based on SIT MIE2001 module descriptor for Business Design School, Singapore Institution of Technology. Recommendations tailored for first-year undergraduate students with no prior entrepreneurship coursework.*
+| Principle | Application |
+|-----------|-------------|
+| **Learn by doing** | Every week has an active exercise, not just lecture |
+| **Singapore-first** | All cases, guests, and examples from SG ecosystem |
+| **Effectuation throughout** | LO1 is not a one-week topic — revisit effectuation across all weeks |
+| **Low-fidelity, fast iteration** | BMC before business plan; interviews before surveys; paper before code |
+| **Design thinking integration** | BDS students already familiar with design thinking — leverage this as their superpower |
+| **Team-based from Week 3** | Students form teams early and work on the same venture all semester |
+| **Process > Outcome** | 70% of grade rewards process (interviews, iterations, reflections), 30% rewards final output |
