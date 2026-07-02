@@ -1,6 +1,6 @@
 # MIE2001 — 10-Week Syllabus (Condensed)
 
-*Compressed from the original 13-week curriculum. Mid-term and final presentations removed from class time; final Business Plan is a take-home submission. All content remains intact — just leaner delivery.*
+*Compressed from the original 13-week curriculum. Mid-term and final presentations removed from class time. Final Business Plan is a take-home submission. All content remains intact — just leaner delivery.*
 
 ---
 
@@ -202,21 +202,19 @@
 
 ## Mapping: Original 13 Weeks → Condensed 10 Weeks
 
-| Original Week | Original Topic | New Week | Notes |
-|---------------|----------------|----------|-------|
-| Week 1 | Entrepreneurship Mindset | Week 1 | Same |
-| Week 2 | Effectuation Principles | **Week 2** | Same |
-| Week 3 | Design Thinking | Week 3 | Same |
-| Week 4 | Opportunity Recognition | Week 4 | Merged with Week 5 content |
-| Week 5 | Opportunity Assessment | Week 5 | Same, but compressed |
-| Week 6 | Lean Startup & MVP | Week 6 | Combined with informal midterm check |
-| Week 7 | ~~Midterm Pitch~~ | — | Absorbed into Week 6 (informal, no grade) |
-| Week 8 | The Startup Team | Week 7 | Combined with "Choosing Customers" |
-| Week 9 | Choosing Customers | Week 7 | Combined with "Startup Team" |
-| Week 10 | Project Finance | Week 8 | Same, compressed |
-| Week 11 | Pitching | Week 9 | Combined with BMC |
-| Week 12 | Business Model Canvas | Week 9 | Combined with Pitching |
-| Week 13 | ~~Final Presentations~~ | — | Replaced by take-home Business Plan |
+| Original Week | Original Topic | New Week | New Folder | Notes |
+|---------------|----------------|----------|------------|-------|
+| Week 1 | Entrepreneurship Mindset | Week 1 | `Week-01-Entrepreneurship-Mindset/` | Updated |
+| Week 2 | Effectuation Principles | Week 2 | `Week-02-Effectuation/` | Updated |
+| Week 3 | Design Thinking | Week 3 | `Week-03-Design-Thinking/` | Updated |
+| Week 4 | Opportunity Recognition | Week 4 | `Week-04-Opportunity-Recognition/` | Updated + combined with Scratching Own Itch |
+| Week 5 | Opportunity Assessment | Week 5 | `Week-05-Opportunity-Assessment/` | Updated |
+| Week 6 | Lean Startup & MVP | Week 6 | `Week-06-Lean-Startup-MVP/` | Updated + informal midterm check |
+| Week 7 | ~~Midterm Pitch~~ | — | — | Absorbed into Week 6 (informal) |
+| Week 8+9 | Startup Team + Choosing Customers | Week 7 | `Week-07-Startup-Team-Customers/` | Merged |
+| Week 10 | Project Finance | Week 8 | `Week-08-Project-Finance/` | Updated |
+| Week 11+12 | Pitching + BMC | Week 9 | `Week-09-Business-Model-Pitch/` | Merged |
+| Week 13 | ~~Final Presentations~~ | Week 10 | `Week-10-Final-Business-Plan/` | Take-home submission, no class |
 
 ---
 

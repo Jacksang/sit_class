@@ -1,13 +1,14 @@
-# Week 10 → Week 11 — Open Questions & Briefing Prep
+# Week 8 → Week 9 — Open Questions & Briefing Prep
 
 ## Briefing for Next Class
-**Next topic:** Pitching to Investors — pitch deck structure, storytelling, Q&A
+**Next topic:** Business Model Canvas & Pitching — BMC deep dive, gallery walk, pitch deck structure, storytelling
 
 **Pre-class prep:**
 1. Complete your financial model (Google Sheets)
-2. Start drafting your pitch deck (aim for 5-7 slides ready for class workshop)
-3. **Reading:** "The Art of the Start" (Kawasaki) — chapter on pitching
-4. Watch: Any 3-min startup pitch on YouTube (note what worked and what didn't)
+2. Bring a draft BMC to class for the gallery walk
+3. Start drafting your pitch deck (aim for 5-7 slides ready for workshop)
+4. **Reading:** "Business Model Generation" (Osterwalder) — your BMC block chapter
+5. Watch: Any 3-min startup pitch on YouTube (note what worked and what didn't)
 
 ---
 
@@ -35,8 +36,9 @@
 ---
 
 ## Share-Out Prep
-Students should come to Week 11 ready to share:
+Students should come to Week 9 ready to share:
 - Their revenue model and pricing
 - LTV/CAC ratio (estimated)
 - Break-even timeline
+- Draft BMC (for gallery walk)
 - ONE slide of their draft pitch deck (problem or financials slide)

@@ -162,7 +162,7 @@
 **Homework:**
 - Complete interview 5+ people total
 - Market sizing worksheet
-- Submit: **Customer Discovery Report** — interview notes + problem validation (due Week 7)
+- Submit: **Customer Discovery Report** — interview notes + problem validation (due Week 6)
 
 ---
 

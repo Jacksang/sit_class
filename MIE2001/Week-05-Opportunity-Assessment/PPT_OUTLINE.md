@@ -157,7 +157,7 @@
 
 ### Slide 15 — Report Requirements (from Assessment Rubrics)
 - **Format:** 3-4 pages (group)
-- **Due:** Week 7 (mid-term)
+- **Due:** Week 6 (with informal check-in)
 - **Content:**
   - Problem statement + evidence
   - Minimum 5 customer interviews (notes + insights)
@@ -187,7 +187,7 @@
 - Market sizing: TAM shows potential, SAM shows reality, SOM shows viability
 - Competitors can be direct, indirect, or the status quo
 - Blue ocean: don't compete; create new space
-- Customer Discovery Report draft due Week 7 — start writing now
+- Customer Discovery Report due Week 6 — start writing now
 
 ### Slide 19 — Next Week: Lean Startup & MVP
 - Build-Measure-Learn loop

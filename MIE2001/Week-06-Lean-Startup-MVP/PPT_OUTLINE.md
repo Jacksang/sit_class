@@ -195,13 +195,14 @@
 - MVP = smallest test of your riskiest assumption
 - Don't fall in love with your solution — fall in love with learning
 
-### Slide 23 — Next Week: Mid-Term Presentations
-- 5-min pitch per team
-- What to present: Problem + Customer Discovery + Draft BMC + MVP Plan
-- **Deliverable:** 5-slide pitch deck + Draft BMC
+### Slide 23 — Next Week: Startup Team & Choosing Customers
+- Team dynamics, equity splits, team charter
+- Customer segmentation, personas, channel strategy (Bullseye)
+- **Bring:** Customer Discovery Report (due this week!)
+- **Prepare:** Brief 2-min team progress update (informal check-in)
 
 ### Slide 24 — Deliverables
 - Build & test your MVP this week!
-- **Starting:** Work on your 5-slide pitch deck
-- **Reading:** Revisit The Mom Test / Lean Startup chapters for pitch prep
+- **Due:** Customer Discovery Report (full, 3-4 pages)
+- **Reading:** "Traction" — Gabriel Weinberg (Bullseye chapter)
 - **Reflection:** What did you learn from your MVP test?

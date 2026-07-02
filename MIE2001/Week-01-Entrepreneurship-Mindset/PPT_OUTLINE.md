@@ -115,17 +115,17 @@
   - Weeks 1-2: Think like an entrepreneur
   - Weeks 3-5: Find a real problem
   - Weeks 6-8: Build & test a solution
-  - Weeks 9-12: Build a business around it
-  - Week 13: Pitch it
+  - Weeks 9: Build a business model & pitch
+  - Week 10: Submit your Business Plan
 
 ### Slide 15 — Assessment Overview
 | Component | Weight | Due |
 |-----------|--------|-----|
-| Weekly reflections | 15% | Every Friday |
-| Customer Discovery Report | 20% | Week 7 |
-| Business Model Canvas | 20% | Week 12 |
-| Pitch Deck + Presentation | 25% | Week 13 |
-| Participation & Peer | 20% | Ongoing |
+| Weekly reflections | 20% | Every week |
+| Customer Discovery Report | 25% | Week 6 |
+| Business Model Canvas | 25% | Week 9 |
+| Final Business Plan (take-home) | 30% | Week 10 |
+| Participation & Peer | — | Ongoing (embedded in process) |
 
 **Emphasize:** 70% of your grade = *process*. We reward trying, learning, and iterating — not just having a perfect idea.
 

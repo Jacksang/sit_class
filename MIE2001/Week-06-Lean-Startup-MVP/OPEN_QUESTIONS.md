@@ -1,17 +1,16 @@
 # Week 6 → Week 7 — Open Questions & Briefing Prep
 
-## Briefing for Next Class (Mid-Term)
-**Next topic:** Mid-term 5-min pitches + peer feedback
+## Briefing for Next Class
+**Next topic:** The Startup Team & Choosing Customers (combined session)
 
 **Pre-class prep:**
 1. Build and test your MVP this week (minimum viable test)
-2. Prepare your 5-slide pitch deck:
-   - Slide 1: Problem + Customer Evidence
-   - Slide 2: Draft BMC
-   - Slide 3: MVP Plan (or results if already tested)
-   - Slide 4: Key Learnings So Far
-   - Slide 5: What You Need Help With
-3. Submit draft **Customer Discovery Report** (due Week 7)
+2. **Informal 10-min team check-in** at start of Week 7 — be ready to share:
+   - Problem + Customer Discovery progress
+   - MVP results (even if just started)
+   - One key learning
+3. Sign and submit your **Customer Discovery Report** (due this week)
+4. Think about: who is on your team, and what roles does each person play?
 
 ---
 
@@ -39,8 +38,7 @@
 ---
 
 ## Share-Out Prep
-Students should come to Week 7 (Mid-term) ready to present:
-- 5-slide pitch deck (any format — Google Slides, Canva, PDF)
-- Draft BMC (1 page)
-- Story of their MVP test: What they built, what they learned
-- **No polished presentations expected** — this is a learning checkpoint
+Students should come to Week 7 ready to:
+- Share brief (2 min) team progress update
+- Discuss MVP test results or status
+- Have a draft Customer Discovery Report ready for submission
