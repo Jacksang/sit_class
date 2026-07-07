@@ -1,207 +1,90 @@
-# Week 7: The Startup Team & Choosing Customers — PPT Outline (3 Hours)
+# Week 7: Startup Team & Choosing Customers — PPT Outline (3 Hours)
 
 ---
 
 ## Part 1: Recap & Warm-Up (15 min)
 
 ### Slide 1 — Title Slide
-- **Week 7:** The Startup Team & Choosing Customers
-- Team dynamics, co-founder splits, customer segmentation, go-to-market strategy
+- **Week 7:** The Startup Team + Choosing Customers
+- Who you work with + who you serve
 
-### Slide 2 — Mid-Term Recap (5 min)
-- Congrats on completing mid-term check-ins last week!
-- **Quick reflection:** What's one thing you validated (or invalidated) with your MVP?
-- **Announcement:** Customer Discovery Report grades returned by [date]
+### Slide 2 — MVP Check-In (5 min)
+- Who ran their MVP? What did you learn?
 
-### Slide 3 — Warm-Up: "My Dream Co-Founder & My Customer" (10 min)
-- **Individual (3 min):** Write down the ideal co-founder AND your target customer in one sentence each
-- **Pair-share (5 min):** Compare with a partner
-- **Class debrief (2 min):** What patterns emerge across teams?
+### Slide 3 — Warm-Up: "Best Team Ever" (10 min)
+- Think of the best team you've been on. What made it great?
+- Pair share → class debrief
+- **Transition:** A great team beats a great idea. Every time.
 
 ---
 
-## Part 2: Why Startup Teams Matter (15 min)
+## Part 2: The Startup Team (35 min)
 
-### Slide 4 — Investors Bet on Teams, Not Ideas
-- **Data point:** 65% of startup failures are due to team problems
-- **Data point:** Startups with 2+ founders raise 30% more money
-- **VC saying:** "I'd rather invest in an A-team with a B-idea than a B-team with an A-idea"
+### Slide 4 — Why Teams Matter
+- VCs say team quality is #1 investment factor
+- Diverse co-founder teams have 30% higher survival (NUS Enterprise)
 
-### Slide 5 — What Makes a Great Startup Team?
-| Quality | Why It Matters |
-|---------|---------------|
-| Complementary skills | Not two people who do the same thing |
-| Shared values | Agree on ethics, pace, communication |
-| Conflict resolution | Disagree without destroying the relationship |
-| Complementary networks | Know different people in different circles |
+### Slide 5 — The Four Team Types
+| Role | Strength | Weakness |
+|------|----------|----------|
+| Builder (makes things) | Builds fast | Neglects customers |
+| Seller (sells things) | Gets customers | Skips quality |
+| Organizer (runs things) | Manages process | Lacks creativity |
+| Thinker (plans things) | Strategic | Overthinks |
 
-**Discussion:** In your current team, where are you strongest? Where is your biggest gap?
+### Slide 6 — Equity & Co-Founder Dynamics
+- Common mistakes: 50/50 without discussion, no vesting
+- Better: discuss contributions honestly, use vesting (4yr/1yr cliff)
+- For SIT: focus on team charter (roles, decisions, conflict)
 
----
-
-## Part 3: Equity & Co-Founder Dynamics (20 min)
-
-### Slide 6 — Equity Splits: Fair is Not Always Equal
-- **Myth:** "50/50 because we're friends"
-- **Reality:** Equity should reflect contribution, commitment, and risk
-- **Factors:** Who had the idea? (worth less than you think), Who's full-time? Who brings capital/who does the unglamorous work?
-
-### Slide 7 — Common Split Models
-| Model | Description | Best For |
-|-------|-------------|----------|
-| 50/50 | Equal split | Two co-founders, equal commitment |
-| 60/40 | Leader + supporter | Clear role differentiation |
-| Dynamic equity | Based on actual contributions | Uncertain early commitment |
-| Vesting | Earn equity over time | Prevent early departures |
-
-### Slide 8 — Dynamic Equity Exercise (5 min)
-**Scenario:** You and two friends start a business:
-- Person A: Full-time, experienced, bringing \$20K
-- Person B: Part-time (20 hrs/week), technical
-- Person C: Part-time (10 hrs/week), marketing, great connections
-
-**Activity:** How would you split equity? Discuss in teams, share reasoning.
+### Slide 7 — Team Charter Activity (remaining time)
+**Step 1:** Share individual worksheets (10 min)
+**Step 2:** Negotiate roles + charter (15 min)
+**Step 3:** Sign + submit (5 min)
 
 ---
 
-## Part 4: Team Charter (25 min)
+## Part 3: Choosing Customers (25 min)
 
-### Slide 9 — What is a Team Charter?
-- **Definition:** A written agreement defining how your team works together
-- **NOT a legal contract** — it's a commitment to shared expectations
-- **Why you need one:** Most team conflicts come from unspoken expectations
+### Slide 8 — Customer Segmentation
+- You cannot sell to everyone
+- Types: demographic, geographic, psychographic, behavioral
+- **Best:** combine 2-3 types for actionable segments
 
-### Slide 10 — Team Charter Template
-**1. Team Members & Roles**
-- Who does what? (Primary + Secondary role each)
+### Slide 9 — Persona Creation
+- NOT a demographic profile — a HUMAN with behaviors + frustrations
+- "Jane, 19, SIT student who's always hangry" > "students"
 
-**2. Meeting & Communication**
-- How often? What channels? Decision-making method?
+### Slide 10 — Channel Selection: Bullseye Framework
+1. List 10 channels
+2. Score: Reach × Relevance / Cost
+3. Pick top 3 to test
+4. If none work → pick next 3
 
-**3. Work Standards**
-- What does "done" mean? How handle missed deadlines?
-- What happens if someone doesn't pull their weight?
-
-**4. Conflict Resolution**
-- How do you disagree productively? How give feedback?
-
-**5. Values** — Circle 3: speed, quality, fun, learning, fairness, ambition, support
-
-### Slide 11 — Charter Negotiation Activity (20 min)
-- **In teams (10 min):** Complete the team charter. Discuss honestly.
-- **Hard conversations (10 min):** Discuss the "what if someone doesn't contribute" section — this is the most important one
-- **Sign it:** This becomes your commitment for the rest of the module
-
----
-
-## Part 5: Ethics in Entrepreneurship (10 min)
-
-### Slide 12 — Why Ethics Matter
-- Startups operate in a "gray zone" — fast, unregulated, ambiguous
-- **Key question:** Will you make decisions you're proud of?
-
-### Slide 13 — Ethical Decision-Making Framework
-1. Identify stakeholders — who is affected?
-2. Check the law — is it legal in Singapore?
-3. Check your values — would you be OK if this was on the news?
-4. Test with a trusted person — ask someone outside your team
-5. Make the decision — and explain it transparently
-
----
-
-## Part 6: Customer Segmentation (20 min)
-
-### Slide 14 — Why Segmentation Matters
-- **You cannot sell to everyone** — even Coca-Cola has segments
-- Segmentation = focus, focus = efficiency
-- Segmentation reduces waste — don't market to people who won't buy
-
-### Slide 15 — Types of Segmentation
-| Type | What It Looks At | Example |
-|------|-----------------|---------|
-| **Demographic** | Age, income, education | "18-22 year old uni students" |
-| **Geographic** | Location | "SIT students living >30 min from campus" |
-| **Psychographic** | Values, interests | "Students who prioritize healthy eating" |
-| **Behavioral** | Usage, buying patterns | "Students who eat out >5x/week" |
-
-**Pro tip:** Best segments combine 2-3 types.
-
-### Slide 16 — Early Adopters vs. Mainstream
-- **Early adopters:** Willing to try imperfect products, more forgiving
-- **Mainstream:** Wait until proven, want reliability
-- **Strategy:** Find early adopters FIRST
-
-**The Chasm (Geoffrey Moore):** Most startups fail trying to cross this chasm too early.
-
-### Slide 17 — Segment Selection Exercise (10 min)
-**In teams:** Rank your possible customer segments:
-
-| Segment | Pain (1-5) | Size | Accessibility (1-5) | Best fit? |
-|---------|-----------|------|--------------------|-----------|
-| | | | | |
-
-**Choose your primary segment for the rest of the module.**
-
----
-
-## Part 7: Customer Personas (15 min)
-
-### Slide 18 — What is a Customer Persona?
-- **Definition:** A detailed, semi-fictional representation of your ideal customer
-- Not a demographic profile — it's a *human* with behaviors and frustrations
-- Makes your customer real
-
-### Slide 19 — Persona Template
-**Name, photo, demographics, behaviors, goals, frustrations, quote**
-
-### Slide 20 — Creating Your Persona (10 min)
-**Team exercise:** Based on your interviews, describe your target customer:
-- Name, age, backstory, daily routine
-- When and how they experience the problem
-- One quote in their own voice (from your interview notes)
-
----
-
-## Part 8: Channel Selection — Bullseye Framework (20 min)
-
-### Slide 21 — 19 Channels (Traction, Weinberg)
-Viral, PR, SEM, social ads, SEO, content marketing, email, sales, partnerships, community, influencers, etc.
-
-### Slide 22 — Bullseye Framework
-**Process:**
-1. Brainstorm: which channels could reach your persona?
-2. Rank: best "reach × relevance / cost"
-3. Test: try top 1-3 channels for 2 weeks
-4. Evaluate: double down or pivot
-
-### Slide 23 — Singapore-Specific Channels
+### Slide 11 — Singapore-Specific Channels
 | Channel | Best For | Cost |
 |---------|----------|------|
-| Carousell | Product sales | Free/low |
-| Telegram groups | Community building | Free |
-| WhatsApp broadcasts | Beta users | Free |
-| TikTok SG | Viral/Gen Z | Free (time) |
-| Instagram SG | Brand building | Free/low |
-| Campus events | Student audiences | Free (if SIT) |
-
-### Slide 24 — Channel Brainstorming (10 min)
-**In teams:** List 10 channels to reach your persona. Rate Reach, Relevance, Cost. Pick top 3.
+| Telegram groups | Community | $0 |
+| WhatsApp | Personal outreach | $0 |
+| Instagram | Visual/lifestyle | $0 |
+| Carousell | Selling products | $0 |
+| TikTok | Viral/Gen Z | $0 |
+| Campus events | Student-targeted | Low |
 
 ---
 
-## Part 9: Wrap-Up & Next Week (5 min)
+## Part 4: In-Class Activity (25 min)
 
-### Slide 25 — Key Takeaways
-- Great teams > Great ideas. A team charter prevents conflict.
-- Ethical decisions from Day 1 — build something you're proud of.
-- Know who your customer ISN'T. Personas make customers real.
-- Test 1-3 channels hard — not 19 channels shallow.
+### Slide 12 — Lab
+1. Channel scoring: 10 channels → top 3 (15 min)
+2. Customer persona draft (10 min)
 
-### Slide 26 — Next Week: Project Finance
-- Revenue models, unit economics, break-even, Singapore funding
+### Slide 13 — Deliverables
+1. Signed team charter
+2. Customer persona (1 page) + top 3 channels
 
-### Slide 27 — Deliverables
-- **Due:** Signed Team Charter
-- **Due:** Customer persona + channel strategy (1 page)
-- **Reflection:** "What makes a great startup team?" (250 words)
-- **Continuing:** Customer Discovery interviews — you need 5+ for the report
+### Slide 14 — Key Takeaways
+- Team > Idea. Always.
+- Specific customer > "everyone"
+- Test channels, don't guess
+- **Next week:** Project Finance — how to make money

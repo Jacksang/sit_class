@@ -1,143 +1,124 @@
-# MIE2001 — Teaching Notes & Instructor Guide
-
-*Practical guidance for delivering this module*
+# MIE2001 — Teaching Notes (10-Week Edition)
 
 ---
 
-## 1. Module Structure Summary
-
-**13 weeks, 7 topics, 5 learning outcomes**
+## 1. Module Structure
 
 | Week | Topic | LO Focus | Key Deliverable |
 |------|-------|----------|-----------------|
-| 1 | Entrepreneurial mindset | LO1 intro | Reflection |
-| 2 | Effectuation principles | LO1 core | Reflection |
-| 3 | Design thinking | LO2 | Problem statements |
-| 4 | Opportunity recognition | LO3 | Interview notes |
-| 5 | Opportunity assessment | LO3 | Customer discovery report |
-| 6 | Lean startup & MVP | LO2, LO3 | MVP test plan |
-| 7 | Mid-term pitches | LO1-LO5 | 5-slide deck + draft BMC |
-| 8 | The startup team | LO4 | Team charter |
-| 9 | Choosing customers | LO4 | Channel strategy |
-| 10 | Project finance | LO5 | Financial model |
-| 11 | Pitching | LO4, LO5 | Pitch deck draft |
-| 12 | BMC & industry solutions | LO5 | Final BMC |
-| 13 | Final presentations | LO1-LO5 | Pitch + business plan |
+| 1 | Mindset | LO1 intro | Reflection |
+| 2 | Effectuation ⭐ | LO1 core | Reflection |
+| 3 | Design Thinking | LO2 | HMW statements, team formed |
+| 4 | Opportunity Recognition | LO3 | Interview guide |
+| 5 | Opportunity Assessment | LO3 | **Customer Discovery Report** |
+| 6 | Lean Startup/MVP + Midterm Check | LO2, LO3 | MVP test plan |
+| 7 | Startup Team + Customers | LO4 | Team charter + persona |
+| 8 | Project Finance | LO5 | Financial model |
+| 9 | BMC + Pitching | LO4, LO5 | **BMC due** + pitch deck |
+| 10 | **Take-home Business Plan** | LO1-LO5 | Business Plan + Peer eval |
 
 ---
 
-## 2. Classroom Setup Recommendations
+## 2. Classroom Setup
 
 ### Physical Space
-- **Preferred:** Round tables for teams of 4-5, whiteboard access
-- **Required:** Projector, speakers (for video cases)
-- **Nice to have:** Large sticky notes (for BMC), markers, poster paper
+- Round tables (4-5 per team), whiteboard, projector
+- Large sticky notes, markers, poster paper for BMC
 
 ### Digital Tools
-| Tool | Purpose | Setup before Week 1 |
-|------|---------|---------------------|
-| **Miro/Mural** | BMC workshops, design thinking, gallery walks | Create team board templates |
-| **Notion** | Weekly reflections, team workspace | Create class template, share link |
-| **Google Sheets** | Financial model | Create template with formulas |
-| **Canva** | Pitch deck design | Free tier sufficient |
-| **LMS (Blackboard/Moodle)** | Submissions, grades, announcements | Set up assignment folders |
+| Tool | Purpose |
+|------|---------|
+| Miro/Mural | BMC workshop templates |
+| Notion | Reflections, team workspace |
+| Google Sheets | Financial model template |
+| Canva | Pitch decks (free tier) |
+| LMS | Submissions, grades |
 
 ---
 
-## 3. Teaching Tips by Topic
+## 3. Teaching Tips by Week
 
-### Topic 1: Entrepreneurship Mindset & Effectuation
-- **Common misconception:** "I'm not an entrepreneur" — show diversity of founder profiles
-- **Effectuation is counter-intuitive** — students trained in "plan everything" mode will resist. Use examples to show successful entrepreneurs who didn't plan
-- **Activity tip:** The "Pitch a Bad Idea" game works best when you go first (pitch your own terrible idea to show vulnerability)
+### Week 1: Mindset (light week)
+- Keep myths/reality to 20 min. Focus on helping students feel comfortable.
+- Bad Idea pitch: go first (shows vulnerability, sets tone)
 
-### Topic 2: Design Thinking
-- **BDS students may already know DT** — don't teach from zero. Focus on *applying* DT to business (not product design)
-- **Activity tip:** The mini design sprint works better outside the classroom. Take the first 10 min as a campus walk
+### Week 2: Effectuation ⭐ (interview demo — see demo pack)
+- Sarasvathy's research is counter-intuitive — use concrete examples
+- "My Effectual Profile" worksheet is the highest-value activity
+- **Singapore cases are essential** — Carousell, Grab, Doctor Anywhere
 
-### Topic 3: Opportunity Recognition & Assessment
-- **Trap:** Students fall in love with their first idea. Encourage multiple ideas
-- **The Mom Test:** Students will naturally ask leading questions. Spend extra time on role-play exercises
-- **Market sizing tip:** Focus on SOM, not TAM. Students love big numbers but need reality checks
+### Week 3: Design Thinking (BDS students know DT)
+- Don't teach from zero. Focus on applying DT to *business*, not product design
+- Mini design sprint: take first 10 min as campus walk
 
-### Topic 4: Lean Startup, MVP, Team
-- **MVP trap:** Students want to build (code, design) rather than test. Push for a landing page or concierge test
-- **Team formation:** Self-formed teams work better than assigned. Give them Week 1-2 to find each other, form by Week 3
-- **Equity:** Most first-years haven't thought about equity. Use simple scenarios (2 co-founders, 50/50 or 60/40?)
+### Week 4: Opportunity Recognition
+- Trap: students fall in love with first idea. Push for multiple.
+- The Mom Test: extensive role-play on good vs. bad questions
+- Campus scavenger hunt: 30 min outside, then 15 min framing
 
-### Topic 5: Choosing Customers
-- **Singapore-specific:** This is where local examples shine. Carousell, Telegram, WhatsApp are the dominant channels for SG consumers
-- **Activity tip:** Have students actually create a Carousell listing for their MVP during class
+### Week 5: Opportunity Assessment
+- Focus on SOM, not TAM. Students love big numbers but need reality checks.
+- Customer Discovery Report due — beware of fabricated interviews
 
-### Topic 6: Project Finance & Pitching
-- **Finance anxiety:** Keep it simple. No NPV, no IRR. Just: costs, revenue, break-even
-- **Pitch decks:** Show a terrible deck first (students love critiquing), then the good version
+### Week 6: Lean Startup/MVP
+- MVP trap: students want to build/code rather than test. Push for landing page or concierge.
+- Informal midterm check: 10 min per team, progress not grade
+- Key question: "Could this test be even smaller?"
 
-### Topic 7: BMC
-- **BMC is hard:** Students will struggle with all 9 blocks fitting together. Use the VPC to bridge customer and value
-- **Gallery walk:** This is the highest-value activity. Force every team to visit and comment on 3 others
+### Week 7: Team & Customers (double-topic week)
+- Team charter: self-formed teams should work well by now
+- Singapore-specific channels essential: Carousell, Telegram, WhatsApp
+
+### Week 8: Project Finance
+- Keep simple. No NPV, no IRR. Just: costs, revenue, break-even.
+- Singapore funding landscape is a key differentiator (Startup SG Founder)
+
+### Week 9: BMC + Pitching (double-topic week)
+- Show a terrible deck first — students love critiquing
+- BMC gallery walk is highest-value activity
+- Video recording of pitch practice is best feedback
+
+### Week 10: Final (Take-home)
+- No class. Submit Business Plan + Peer evaluation.
 
 ---
 
-## 4. Common Student Challenges & How to Address
+## 4. Common Challenges
 
 | Challenge | When | Intervention |
 |-----------|------|--------------|
-| "I don't have an idea" | Week 2-3 | Use the campus scavenger hunt. Everyone has frustrations. |
-| "I can't find anyone to interview" | Week 4 | Provide a script. Use classmates first, then friends/family, then strangers on campus. |
-| "Our MVP is too complex" | Week 6 | Force them to define ONE testable assumption. If they can't, the MVP is too big. |
-| "Our team isn't working" | Week 8 | Refer to team charter. Schedule conflict resolution session. |
-| "I'm scared to pitch" | Week 7, 11 | Low-stakes practice (1-min pitch to partner) before graded pitch. |
+| "No idea" | W2-3 | Campus scavenger hunt |
+| "Can't find interviewees" | W4 | Script + campus + family/friends |
+| "MVP too complex" | W6 | Force ONE testable assumption |
+| "Team conflict" | W7 | Refer to team charter |
+| "Scared to pitch" | W9 | 1-min to partner before graded |
+| "Not ready for finals" | W10 | Take-home format helps |
 
 ---
 
-## 5. Grading Tips
+## 5. Grading (10-Week)
 
-### Making Weekly Reflections Manageable
-- **Max 150 words** (not 250) to reduce reading load
-- **Use a simple rubric:** 2 points for submission, 1 for depth (pass/fail model)
-- **Spot-check:** Don't read every reflection; sample 30% each week
+| Component | Weight | When |
+|-----------|--------|------|
+| Weekly Reflections | 20% | W1-9 (150 words, simple rubric) |
+| Customer Discovery Report | 25% | W5 |
+| Business Model Canvas | 25% | W9 |
+| Final Business Plan | 30% | W10 |
 
-### Customer Discovery Report
-- **Beware of fabrications:** Some students will fake interviews. Ask for: date, name (first only), context. A quick "what did they say?" follow-up usually catches fakes
-- **Good sign:** When students say "we thought X was the problem but found Y was actually more important" — this shows real discovery
-
-### Pitch Grading
-- **Invite external judges** if possible (SIT alumni founders, ACE.SG mentors)
-- **Balance:** Don't reward only the slickest presentation. Grade equally on content (customer discovery, MVP testing)
-- **Structured feedback form** for judges — otherwise they'll just say "great job"
+**Philosophy:** 70% process, 30% outcome. Grade the journey.
 
 ---
 
-## 6. Suggested Guest Speaker Topics
+## 6. Suggested Guest Speakers
 
-| Week | Speaker Profile | Topic |
-|------|----------------|-------|
-| 1-2 | SIT alumni founder | "How I used effectuation to start my business" |
-| 3-4 | Design thinking practitioner (e.g., from a design consultancy) | "Design thinking in action at [company]" |
-| 5-6 | Founder who pivoted | "Our MVP failed — here's what we learned" |
-| 8 | Co-founder pair | "How we split equity and stayed friends" |
-| 10-11 | Angel investor or VC | "What I look for in a pitch" |
-| 13 | SIT alumni panel | 3-4 alumni sharing journeys |
+| Week | Speaker |
+|------|---------|
+| 2 | SIT alumni founder |
+| 6 | Founder who pivoted |
+| 7 | Co-founder pair |
+| 9 | Angel investor/VC |
 
 ---
 
-## 7. Suggested SIT-Specific References
-
-- **SIT Innovation & Entrepreneurship Office** — contact for guest speakers, mentorship, incubation
-- **SIT CoLab / Innovation Lab** — bookable space for team meetings
-- **SIT Industry Partners** — tie industry projects to student ventures
-- **SIT Entrepreneurship Club** — student group, activities, hackathons
-- **Previous SIT startup success stories** — if available, use as case studies
-
----
-
-## 8. Quick Reference: LO → Topic → Assessment Matrix
-
-| Learning Outcome | Primary Topics | Assessment |
-|------------------|----------------|------------|
-| **LO1:** Interpret effectual entrepreneurship principles | Entrepreneurship mindset; Effectuation | Reflections; Mid-term pitch |
-| **LO2:** Apply creative problem-solving and critical thinking | Design thinking; Lean startup; MVP | Customer discovery report |
-| **LO3:** Identify opportunities and assess feasibility | Opportunity recognition; Customer discovery; Market sizing | Customer discovery report; BMC |
-| **LO4:** Demonstrate leadership, communication, teamwork | Startup team; Choosing customers; Pitching | Team charter; Final pitch; Peer eval |
-| **LO5:** Develop innovative solutions for different industries | Business model canvas; Project finance; Industry cases | BMC; Final pitch |
+## 7. SIT References
+- I&E Office, CoLab/Innovation Lab, Entrepreneurship Club
