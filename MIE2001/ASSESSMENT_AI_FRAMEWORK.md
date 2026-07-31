@@ -1,211 +1,211 @@
-# MIE2001 — 考核规则 + AI 评估框架
-## 如何判定"创业思维"的真实习得，并识别学生的真实思考与付出
+# MIE2001 — Assessment Rules + AI Evaluation Framework
+## How to judge genuine acquisition of "entrepreneurial thinking," and identify students' real thinking & effort
 
 *Version 1.0 — 2026-07-31*
 
 ---
 
-## 一、核心设计主张
+## 1. Core Design Thesis
 
-这门课教的不是"知识"（背概念），而是"思维与过程"（创业思维 + 真实行动）。因此考核必须回答两个问题：
+This course does not teach "knowledge" (memorizing concepts) — it teaches "thinking and process" (entrepreneurial thinking + real action). Assessment must therefore answer two questions:
 
-1. **学生是否真的学会了创业思维？**（理解 + 应用 + 反思）
-2. **这是不是学生自己的思考与付出？**（尤其是当 AI 能代写时）
+1. **Did the student genuinely learn entrepreneurial thinking?** (understanding + application + reflection)
+2. **Is this actually the student's own thinking and effort?** (especially when AI can write it for them)
 
-**根本矛盾：** 思维是过程，成绩是结果；而 AI 让"过程痕迹"更容易被伪造。
+**The fundamental tension:** thinking is a process, grades are an outcome; and AI makes "process traces" much easier to fake.
 
-**核心解法：** 把考核重心从 **"评成品"** 转向 **"评过程痕迹"** —— 考核那些只有学生亲历才能产出的、带有个人特征的中间产物（真实访谈、真实失败、真实迭代），而不是最终那页漂亮的文档。
+**The core solution:** shift assessment weight from **"grading the deliverable"** to **"grading the process trace"** — assess the intermediate, personally-marked artifacts that only firsthand experience can produce (real interviews, real failures, real iterations), rather than the final polished document.
 
-> **一句话原则：AI 能代写"答案"，但代写不了"你亲眼见过、亲耳听过、亲自试过的事"。**
-> 本课程考核设计的目标，就是让学生交出 AI 无法凭空造出的东西。
-
----
-
-## 二、"过程痕迹"三原则（Anti-AI 设计基石）
-
-任何一份要用来判定成绩的产物，都应尽量满足这三条。满足得越多，越能证明是学生的真实付出：
-
-| 原则 | 含义 | 对应设计 |
-|------|------|----------|
-| **Personal 个人性** | 包含学生独有的经历、访谈对象、失败细节、情绪变化 | 反思必写真实事件；报告必附访谈记录 |
-| **Anti-AI 反 AI 性** | AI 无法凭空生成，因为它依赖课堂外的真实行动 | 强制提交原始材料（笔记、录音、照片、聊天记录）|
-| **Traceable 可追溯** | 有中间版本、草稿、时间戳，能证明是迭代而非一步成型 | 分阶段交草稿；保留历史版本 |
+> **One-line principle: AI can write the "answer," but it cannot write "the thing you saw with your own eyes, heard with your own ears, and tried with your own hands."**
+> This course's assessment is designed to make students hand in things AI cannot plausibly fabricate.
 
 ---
 
-## 三、考核结构总览（与现有评估兼容）
+## 2. The "Process Trace" Three Principles (Anti-AI Foundation)
 
-现有四种考核方式保留权重，但**每一种都植入"过程痕迹"要求**，使其抗 AI：
+Any artifact used for grading should satisfy these three conditions as much as possible. The more it satisfies them, the stronger the evidence of real student effort:
 
-| 考核项 | 原权重 | 评定对象（从"成品"→"过程痕迹"） |
-|--------|--------|----------------------------------|
-| Weekly Reflections | 20% | 真实事件 + 口语化特征 + 课堂抽查 |
-| Customer Discovery Report | 25% | **强制附原始访谈证据**（名单、录音/笔记、时间地点）+ 迭代记录 |
-| Business Model Canvas | 25% | 草稿的 A→B→C 版本演化 + 每版改动理由 |
-| Final Business Plan | 30% | 附全程过程档案（contribution log + 材料）+ 答辩抽查 |
-| Participation（从计划中内嵌） | — | 课堂 Think-Pair-Share 记录 + 学生互评 |
-
-**70% 过程 / 30% 结果** 的总哲学保留。但"过程"的定义从"交了几版作业"升级为"交出了真实行动的证据"。
+| Principle | Meaning | Corresponding design |
+|-----------|---------|----------------------|
+| **Personal** | Contains the student's unique experience, interviewees, failure details, emotional shifts | Reflections must describe a real event; reports must include interview records |
+| **Anti-AI** | AI cannot generate it from nothing, because it depends on real action outside the classroom | Mandatory raw materials: notes, recordings, photos, chat logs |
+| **Traceable** | Has intermediate versions, drafts, timestamps — proves iteration rather than a single-step product | Staged draft submissions; keep version history |
 
 ---
 
-## 四、逐项考核规则设计
+## 3. Assessment Structure Overview (Compatible with Existing Rubrics)
 
-### 4.1 Weekly Reflections（20%）— 防 AI 代写的主战场
+Keep the four existing assessment methods and weights, but **embed "process trace" requirements into each** to make them AI-resistant:
 
-反思最容易被 AI 代写（学生直接让 ChatGPT 写 250 字反思）。设计如下规则：
+| Assessment | Original Weight | Graded object (from "deliverable" → "process trace") |
+|------------|-----------------|------------------------------------------------------|
+| Weekly Reflections | 20% | Real event + colloquial voice + in-class spot check |
+| Customer Discovery Report | 25% | **Mandatory raw interview evidence** (list, recording/notes, time & place) + iteration record |
+| Business Model Canvas | 25% | A→B→C version evolution of drafts + reason for each change |
+| Final Business Plan | 30% | Full process archive (contribution log + materials) + viva spot check |
+| Participation (embedded in plan) | — | In-class Think-Pair-Share records + peer evaluation |
 
-**格式要求（强制）：**
-- 必须写**本周真实发生的一件事**，而非抽象论述
-- 禁止使用论证文腔调（"首先…其次…综上所述"）——老师会识别"AI 味"
-- 鼓励口语化、有具体细节：人名、时间、地点、原话
-- 字数 150-250，超长反而不加分（AI 才喜欢写长）
+**The 70% process / 30% outcome philosophy is retained.** But "process" is upgraded from "submitted a few drafts" to "submitted evidence of real action."
 
-**新增"口头确认"环节（关键反作弊）：**
-- 每周随机抽 2-3 名学生，用 60 秒口头解释自己写的反思
-- 打分依据：能否脱离稿子讲出事件细节
-- 这一环节**不额外占分**，但作为平时分（Participation）的一部分，或作为反思分的**调节系数**
+---
 
-**评分标准（反思 = 真实性 × 深度 × 应用）：**
+## 4. Per-Item Assessment Rule Design
 
-| 维度 | 判断方法 | "真"的表现 | "假/AI"的表现 |
-|------|----------|-----------|---------------|
-| 真实性 | 有无具体、个人、非通用细节 | "周三晚我室友抱怨食堂排队，我们聊了 40 分钟" | "当今社会，创新是……"（空洞）|
-| 深度 | 是否连接了课程概念 | 明确说出用了哪个原则、怎么用 | 泛泛而谈"这对我很有启发" |
-| 应用 | 是否真的拿来分析现实决定 | 分析了本周真实选择 | 复述课堂例子或百科定义 |
+### 4.1 Weekly Reflections (20%) — the front line against AI ghostwriting
 
-**示例对比：**
+Reflections are the easiest to outsource (students can have ChatGPT write a 250-word reflection). Designed rules:
 
-> ❌（AI 代写味）："创业思维是一种重要的能力，它帮助人们在不确定性中寻找机会。在当今快速变化的世界里，具备这种思维至关重要……"（全是空话）
+**Format requirements (mandatory):**
+- Must describe **one real event that happened this week**, not abstract argument
+- Forbid argumentative essay tone ("First… Second… In conclusion…") — the teacher can detect "AI flavor"
+- Encourage colloquial writing with concrete details: names, times, places, direct quotes
+- 150-250 words; longer is not worth more (AI likes to write long)
+
+**New "verbal confirmation" checkpoint (key anti-cheat):**
+- Each week randomly pick 2-3 students to explain their reflection verbally in 60 seconds
+- Grading basis: can they describe the event's details without the script?
+- This checkpoint **does not add separate marks**, but counts toward Participation, or serves as a **multiplier** on the reflection score
+
+**Grading criteria (reflection = authenticity × depth × application):**
+
+| Dimension | How to judge | "Real" marker | "Fake/AI" marker |
+|-----------|--------------|---------------|------------------|
+| Authenticity | Are there specific, personal, non-generic details? | "Wednesday night my roommate complained about the canteen queue, and we talked for 40 minutes" | "In today's society, innovation is…" (empty) |
+| Depth | Does it connect to course concepts? | Clearly names which principle and how it was used | Vague "this really inspired me" |
+| Application | Is it really used to analyze a real decision? | Analyzed a real choice this week | Paraphrases a class example or encyclopedia definition |
+
+**Example comparison:**
+
+> ❌ (AI-flavored): "Entrepreneurial thinking is an important ability that helps people find opportunities amid uncertainty. In today's rapidly changing world, having this mindset is crucial…" (all filler)
 >
-> ✅（真实思考）："这周组队时我一直犹豫要不要主动联系那位同学。用 Bird-in-Hand 想——我认识他、他会做视频、我需要这个技能——联系他不是'求人'，是合理整合资源。我发了消息，他答应了。这周我最大的收获是：'认识谁'本身就是一个被低估的资源。"
+> ✅ (Real thinking): "This week while forming teams I hesitated about reaching out to that classmate. Using Bird-in-Hand — I know him, he can edit video, I need that skill — reaching out wasn't 'begging,' it was sensible resource assembly. I sent the message, he said yes. The biggest takeaway this week: 'who you know' is itself an underrated resource."
 
 ---
 
-### 4.2 Customer Discovery Report（25%）— 原始证据驱动
+### 4.2 Customer Discovery Report (25%) — raw evidence driven
 
-创业者访谈是最难被 AI 代写的，因为 AI 无法替你见人。设计如下：
+Founder interviews are the hardest to fake with AI, because AI cannot meet people for you. Designed rules:
 
-**强制提交"访谈证据包"（否则该项最高只能得 C）：**
-- 每个受访者的**名单**（姓名/化名 + 身份）
-- 至少 3 条**原始笔记或录音片段**（手写笔记拍照 / 录音节选 / chat 记录截图）
-- **访谈时间地点**记录
-- 访谈中**真实发生的意外**（"她说她不用 app，只用微信"）——AI 编不出这种细节
+**Mandatory "interview evidence pack" (without it, the item caps at C):**
+- **List** of each interviewee (name/pseudonym + role)
+- At least 3 **raw notes or recording clips** (photo of handwritten notes / audio excerpt / chat-log screenshot)
+- Interview **time and place** records
+- A **real surprise encountered** in interviews ("she said she doesn't use apps, only WeChat") — AI cannot fabricate this detail
 
-**评分强调"学习转变"而非"访谈数量":**
-- 高分：访谈**改变了**学生原本的假设（"我原以为 A，访谈后改成 B，因为 X 受访者说……"）
-- 低分：访谈只是用来**验证**已有想法（"我继续坚持原计划"）
+**Grading emphasizes "learning shift" over "interview count":**
+- High score: interviews **changed** the student's original assumption ("I thought A, after interviews I changed to B, because interviewee X said…")
+- Low score: interviews only **confirmed** an existing idea ("I stuck with my original plan")
 
-**判断要点：** 学生报告里是否有"原假设被推翻"的痕迹？这是真实做访谈的标志，AI 代写不出来这种"认知被打脸"的诚实。
-
----
-
-### 4.3 Business Model Canvas（25%）— 迭代版本可追溯
-
-BMC 的一大风险是学生直接用 AI 生成一份完美的 9 宫格。设计如下：
-
-**强制提交"版本演化记录"（A→B→C）：**
-- 至少 2 个中间版本（Week 5 草稿 → Week 7 修正 → Week 9 终版）
-- 每版用一句中文说明**为什么改**（"因为访谈发现客户真正在意的是价格而非功能，所以改了价值主张"）
-- 版本之间必须有**实质变化**，不能只是排版调整
-
-**评分强调"迭代逻辑"而非"最终完美":**
-- 高分：能清晰讲出"哪个证据 → 导致哪个改动"
-- 关键：**允许甚至鼓励早期版本"错"**——错误 + 修正理由 = 真实学习；一步到位完美 = 可疑
+**Judgment point:** does the report show the student's original hypothesis being overturned? That's the hallmark of genuine interviewing — AI cannot produce this honest "cognitive egg-on-face."
 
 ---
 
-### 4.4 Final Business Plan（30%）— 全程档案 + 答辩抽查
+### 4.3 Business Model Canvas (25%) — traceable iteration
 
-**强制提交"贡献日志（Contribution Log）":**
-- 每个成员列出自己**具体做过什么**（"我做了 3 个访谈""我画了财务模型初版"）
-- 配证据（访谈记录、草稿截图、会议记录）
-- 防止组内搭便车 + 防止整组 AI 代做
+A big BMC risk is a student directly asking AI to generate a polished 9-box canvas. Designed rules:
 
-**口头评估 / 抽查答辩（反作弊 + 检验真实性）：**
-- 期末随机抽 20-30% 学生做 5 分钟口头答辩
-- 问的不是"你的商业计划是什么"，而是**"这一版和上一版哪里改了、为什么改""哪个访谈最让你意外""哪个假设被推翻了"**
-- 答不上来 → 该项分数显著调低（哪怕文档完美）
+**Mandatory "version evolution record" (A→B→C):**
+- At least 2 intermediate versions (Week 5 draft → Week 7 revision → Week 9 final)
+- Each version has one sentence in Chinese/English explaining **why it changed** ("Because interviews revealed customers care about price more than features, I changed the value proposition")
+- Versions must show **substantive change**, not just layout tweaks
 
----
-
-### 4.5 Participation（内嵌，不计单独权重但会影响总评边界）
-
-- 课堂 Think-Pair-Share 的记录（老师记 1-2 个关键词）
-- 学生互评（见第五节）
-- 不做成"举手次数"考核，避免逼出假互动；而是记录**参与质量**（有没有真实想法）
+**Grading emphasizes "iteration logic" over "final perfection":**
+- High score: can clearly state "which evidence → caused which change"
+- Key: **early versions are allowed — even encouraged — to be "wrong"** — wrong + correction reason = real learning; perfect in one step = suspicious
 
 ---
 
-## 五、防"搭便车"与"AI 整包代做"的互评机制
+### 4.4 Final Business Plan (30%) — full archive + viva spot check
 
-小组作业最常见的两个坑：**① 有人不干活 ② 有人用 AI 整包代做。**
+**Mandatory "Contribution Log":**
+- Each member lists what they **concretely did** ("I did 3 interviews," "I drew the first financial-model draft")
+- With evidence (interview records, draft screenshots, meeting notes)
+- Prevents freeloading within a team + prevents the whole team outsourcing to AI
 
-**强制"成员贡献互评"升级版：**
-- 期末每组填一张**互评表**：给每个队友在 5 项上打分（访谈量、想法产出、执行、协作、成长）
-- 额外一栏：**"哪个具体产出是 X 同学做的？"**（逼大家说出具体事实，而非笼统感觉）
-- 互评结果作为个人系数（0.8–1.1）乘在组内分数上，防止搭便车
-
----
-
-## 六、AI 使用分层政策（核心：AI 是工具，不是替身）
-
-课程不禁止 AI，但严格区分"借 AI 提速"和"AI 替思考"。分三层：
-
-### 层级 A：全程允许（用 AI 提速的合理环节）
-- 头脑风暴时的资料整理
-- 语法、排版、PPT 美化
-- 市场数据的初步搜集方向
-- **必须标注使用了 AI**（一句"我用 ChatGPT 帮我整理了 X"）
-
-### 层级 B：允许辅助，但必须"亲自把关"
-- 用 AI 起草 → 但必须**改动、补充自己的真实信息**才能提交
-- 提交时附一句"我哪里改了 AI 的、哪里是我自己的"
-- 重点：AI 提供框架，**真实内容（访谈、数据、个人经历）必须来自学生**
-
-### 层级 C：禁止直接代写（必须学生亲力亲为）
-- **访谈、观察、真实行动**：AI 无法代替，禁止假装"我做了"
-- **个人反思**：必须真实经历，禁止提交 AI 生成全文
-- **口头答辩**：必须本人能讲得出来
-- 违反层级 C（提交 AI 代写全文 / AI 编造访谈 / 答辩讲不出）→ 该项 0 分，并按学校学术诚信规则处理
-
-**给学生讲清楚的一句话：**
-> "AI 能帮你把话讲得更漂亮，但**只有你亲眼看见、亲耳听到、亲手试过的事**才属于这篇作业。你的真实经历是 AI 给不了、也替代不了的价值——这正是这份作业要考核的。"
+**Oral assessment / spot-check viva (anti-cheat + authenticity verification):**
+- At the end, randomly pick 20-30% of students for a 5-minute oral viva
+- Questions are not "what is your business plan," but **"where did this version differ from the last and why," "which interview most surprised you," "which assumption was overturned"**
+- Can't answer → that item's score is significantly reduced (even if the document is perfect)
 
 ---
 
-## 七、如何"一眼看出"学生有没有真思考（教师判断速查表）
+### 4.5 Participation (embedded; not a separate weight but affects final grade boundary)
 
-| 观察信号 | 像"真思考、有付出" | 像"AI 代写/没投入" |
-|----------|--------------------|--------------------|
-| 细节 | 具体人名、时间、原话、失败 | 通用、抽象、四平八稳 |
-| 认知 | 承认原假设被推翻 | 永远正确、毫无挣扎 |
-| 迭代 | 有改动 + 改动理由 | 一步成型 / 版本雷同 |
-| 联系 | 真的把概念用在现实决定 | 复述概念、贴标签 |
-| 答辩 | 脱稿能讲出"为什么" | 只会念稿、问细节就卡壳 |
-| 语言 | 口语化、有个人语气 | 论证腔、并列句过多 |
+- Records of in-class Think-Pair-Share (teacher notes 1-2 keywords)
+- Peer evaluation (see section 5)
+- Not graded by "number of hands raised," to avoid forcing fake participation; instead records **participation quality** (is there a real idea?)
 
 ---
 
-## 八、给教师的一句话一版执行清单
+## 5. Anti-Freeloading & Anti-"Whole-Team AI" Peer Mechanism
 
-1. 反思：**必写真实事件 + 每周随机口头抽查**
-2. 报告：**强制附访谈证据包 + 强调"被推翻的假设"**
-3. BMC：**强制 3 版迭代记录 + 每版说明"证据→改动"**
-4. 计划：**贡献日志 + 期末 5 分钟抽查答辩**
-5. AI：**三层分级 + 违反层级 C 零分 + 全程标注使用**
-6. 互评：**要求说出"哪个具体产出是谁做的"**
-7. 总纲：**能证明"你亲历过"的分数 > 文档漂亮**
+Group work has two classic pitfalls: **① someone does nothing ② someone uses AI to do the entire deliverable.**
+
+**Mandatory upgraded "member contribution peer review":**
+- At the end, each team fills one **peer-review form**: score every teammate on 5 items (interview volume, idea output, execution, collaboration, growth)
+- One extra column: **"Which specific deliverable did student X produce?"** (forces concrete facts, not vague feelings)
+- The peer-review result acts as a personal coefficient (0.8–1.1) multiplied against the team score, preventing freeloading
 
 ---
 
-## 九、和评委"95% 学生"关切的一致性
+## 6. Tiered AI-Use Policy (Core: AI is a tool, not a substitute)
 
-这份考核设计的最大好处是**天然服务那 95% 不创业的学生**：
+The course does not ban AI, but strictly separates "use AI to speed up" from "let AI think for you." Three tiers:
 
-- 它考核的是**过程与思维**（真实行动、迭代、复盘），不是"有没有做出公司"——创业结果不重要，思考过程才评分
-- 它**奖励诚实与尝试**（"原以为 A 后来 B" 是加分项，不是减分项）——让不敢创业的学生也能拿高分
-- 它**培养了可迁移的真实能力**：访谈、验证假设、迭代、复盘、协作——这些在任何职业都受用终身
-- 它**把 AI 变成学习伙伴而非作弊工具**——让学生学会"借 AI 提速但自己掌控思考"，正是进入职场前最重要的能力之一
+### Tier A: allowed throughout (reasonable places to use AI for speed)
+- Organizing materials during brainstorming
+- Grammar, layout, PPT polish
+- Initial directions for market-data gathering
+- **Must disclose AI use** (a line: "I used ChatGPT to help organize X")
 
-> **结尾立意：** 这门课的成绩，不该衡量"你做出了多成功的公司"，而应衡量"你有没有学会真实地思考、行动和从失败中迭代"。这 5 样东西，AI 帮不了你，也是那 95% 学生带得走一生的财富。
+### Tier B: allowed as assistance, but must "own the final say"
+- Use AI to draft → but must **modify and add your own real information** before submitting
+- Attach a line on submission: "where I changed the AI output, and what is mine"
+- Key point: AI provides the framework; **the real content (interviews, data, personal experience) must come from the student**
+
+### Tier C: direct ghostwriting prohibited (must be done firsthand)
+- **Interviews, observations, real actions:** AI cannot replace them — pretending "I did it" is prohibited
+- **Personal reflection:** must be a real experience; submitting an AI-generated full text is prohibited
+- **Oral viva:** must be explainable by the student themselves
+- Violating Tier C (submitting AI-written full text / AI-fabricated interview / can't explain viva) → that item scores 0, and is handled per the school's academic-integrity rules
+
+**One line to tell students:**
+> "AI can make your words prettier, but **only what you saw, heard, and tried yourself** belongs to this assignment. Your real experience is a value AI can't give you and can't replace — and it's exactly what this assignment is grading."
+
+---
+
+## 7. "One-Glance" Teacher Checklist: Real Thinking vs. Not
+
+| Observable signal | Looks like "real thinking & effort" | Looks like "AI ghostwriting / no investment" |
+|-------------------|-------------------------------------|----------------------------------------------|
+| Detail | Specific names, times, quotes, failures | Generic, abstract, smooth and safe |
+| Cognition | Admits original assumption was overturned | Always right, no struggle |
+| Iteration | Has changes + reasons for change | One-step product / versions identical |
+| Connection | Actually applies concept to a real decision | Paraphrases concept, pastes label |
+| Viva | Can explain "why" off the cuff | Reads from script, freezes on details |
+| Language | Colloquial, has personal voice | Argumentative tone, too many parallel clauses |
+
+---
+
+## 8. One-Line Executive Checklist for the Teacher
+
+1. Reflection: **must describe a real event + weekly random verbal spot check**
+2. Report: **mandatory interview evidence pack + emphasize "overturned assumptions"**
+3. BMC: **mandatory 3-version iteration record + each version explains "evidence → change"**
+4. Plan: **contribution log + 5-min end-of-term spot-check viva**
+5. AI: **three tiers + violating Tier C is 0 + disclose all AI use**
+6. Peer review: **require "which specific deliverable did who produce"**
+7. Overall: **evidence you "lived it" beats a beautiful document**
+
+---
+
+## 9. Alignment with the Committee's "95% of Students" Concern
+
+This assessment design's biggest advantage is that it naturally serves the 95% who will never start a company:
+
+- It grades **process and thinking** (real action, iteration, review), not "whether you built a company" — startup outcomes don't matter; it's the thinking process that's graded
+- It **rewards honesty and experimentation** ("I thought A, then B" is a plus, not a minus) — so students who aren't confident entrepreneurs can still score well
+- It builds **transferable real capabilities**: interviewing, validating assumptions, iterating, reviewing, collaborating — skills that pay off in any career for life
+- It **turns AI into a learning partner rather than a cheating tool** — teaching students to "use AI to speed up while keeping control of their own thinking" is one of the most important pre-career skills
+
+> **Closing vision:** This course's grade should not measure "how successful a company you built," but "whether you learned to genuinely think, act, and iterate from failure." These five things AI cannot do for you — and they are what the 95% of students can carry with them for life.
