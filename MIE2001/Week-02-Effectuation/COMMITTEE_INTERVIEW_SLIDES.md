@@ -6,6 +6,19 @@
 
 ---
 
+> 🎯 **核心教学法改进说明**
+>
+> 本次 slides 基于评委反馈进行了三方面重构：
+> 1. **先体验后命名** — SASAR 概念不再用 abstract definition 开头，而是让学生先做两个活动再命名
+> 2. **Think-Pair-Share 交互框架** — 所有互动环节改为 思考→讨论→分享 三级结构
+> 3. **95% 学生适配** — 每节课开头回答 "Why should I care"，结尾从创业成果改为思维能力的落脚点
+>
+> 用 🧠 标记**备选话术**（学生不理解时的降维解释）
+> 用 💬 标记**T-P-S 指令**（Think-Pair-Share 具体话术）
+> 用 🔗 标记**95% 连接点**（对非创业学生的意义）
+
+---
+
 ## Slide 1 — Title Slide
 
 ```
@@ -19,116 +32,182 @@
 ║                        [Your Name]                   ║
 ║                 Singapore Institute of Technology     ║
 ║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
-## Slide 2 — The $5,000 Challenge (Hook — 2 min)
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║           "You have $5,000 and two weeks             ║
-║           to start a business. What do you do?"      ║
-║                                                      ║
-║                      [IMAGE: thinking student]       ║
-║                                                      ║
-║          ⚡ Most people: Research → Plan → Execute   ║
-║          ⚡ Expert entrepreneurs: What do I have?    ║
+║    🎯 今天教的不是怎么开公司 —                         ║
+║        是帮你做更好的决定，用你已有的资源               ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-**Speaker note:** Open with this question. Pause 3 seconds. Let it land. Don't advance to the text yet — say the question first.
+**Speaker note: NEW — 开场增加 30 秒 "Why Should I Care"**
+
+"我知道，很多人选这门课不是因为想创业。我今天讲的内容不假设你想开公司。我想给你一个东西：**一种做决策的框架**——不管你将来进公司、做自由职业、搞 passion project、还是经营自己的小生意，都适用。"
+
+📌 *这句话在开场 30 秒内说掉——让学生知道这不是给他们讲 start a business 的。*
 
 ---
 
-## Slide 3 — Sarasvathy's Discovery (2 min)
+## Slide 2 — 🧪 体验式活动：两种思考方式 (NEW — 5 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║   📊 How Expert Entrepreneurs Actually Think         ║
+║      🧪 体验活动：两种思考方式                        ║
 ║                                                      ║
-║   Saras Sarasvathy — University of Virginia          ║
 ║                                                      ║
-║   Studied: 27 expert entrepreneurs                   ║
-║   (15+ years experience, multiple exits)             ║
+║   活动 A：你有一个明确的目标                          ║
+║      "暑假赚 $1,000"                                  ║
+║     → 写下 3 步计划（30秒）                           ║
 ║                                                      ║
-║   Result: Experts don't think like managers           ║
+║   活动 B：你手上有的资源                               ║
+║      "一部手机 + $200 + 一个周日"                     ║
+║     → 写出你能做的事情（30秒）                        ║
 ║                                                      ║
-║   ┌─────────────┐       ┌──────────────────┐         ║
-║   │  Causation  │  vs   │  Effectuation    │         ║
-║   │ (Novices)   │       │  (Experts)       │         ║
-║   │ Goal → Plan │       │ Means → Create   │         ║
-║   │ → Execute   │       │ → Iterate        │         ║
-║   └─────────────┘       └──────────────────┘         ║
+║                                                      ║
+║   📝 60秒独立写 → 和邻座讨论1分钟 → 叫2-3组分享       ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
+**Speaker note: 教学法关键点**
+
+💬 **Think (30 秒):** "给我 30 秒，让你独立在纸上写下这两个活动的答案。不要和旁边的人讨论。自己安静想。开始。"
+
+💬 **Pair (1 分钟):** "好，现在和旁边的同学对这 1 分钟——你们写的计划 A 和计划 B 有什么不一样？谁的计划更冒险？谁更保守？开始。"
+
+💬 **Share (3 分钟):** "好，我想叫 2-3 组分享你们的发现。先说说活动 A 你们是怎么想的？活动 B 是怎么想的？有谁愿意先说？"
+
+🧠 **备选话术（如果学生懵了或冷场）：**
+- "举个简单例子。假设今天你说：'我这个暑假要赚 1,000 块'——那你会怎么做？（等一个回答）。好，这是 **plan-first** 思考方式。"
+- "现在反过来：你周日待在家里，有手机、200 块、没事做——你能想到做点什么赚钱？（等一个回答）。这是 **means-first** 思考方式。"
+- "它们没有好坏之分。但它们**完全不同**。我们今天教的就是搞清楚什么时候该用哪一种。"
+
 ---
 
-## Slide 4 — The 5 Principles (30 sec overview)
+## Slide 3 — 正式命名：Causation vs. Effectuation (NEW — 1.5 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║       Sarasvathy's 5 Effectuation Principles         ║
+║    🧠 正式命名：你刚刚体验了两种思考模式               ║
+║                                                      ║
+║                                                      ║
+║    ┌─────────────────────┐  ┌──────────────────────┐ ║
+║    │  活动 A的问题        │  │  活动 B的问题         │ ║
+║    │  「我有个目标」      │  │  「我有些资源」       │ ║
+║    │                     │  │                      │ ║
+║    │  = Causation        │  │  = Effectuation      │ ║
+║    │  (因果推理)         │  │  (使然推理)          │ ║
+║    │                     │  │                      │ ║
+║    │  目标 → 计划 → 执行 │  │  手段 → 创造 → 迭代  │ ║
+║    └─────────────────────┘  └──────────────────────┘ ║
+║                                                      ║
+║    🔗 这两个名字不重要。重要的是：                     ║
+║       它们适用场景不同                                 ║
+║       Causation 适合可预测的情况                      ║
+║       Effectuation 适合**不可预测**的情况              ║
+║       而创业——以及大多数真实人生的决定——都不太好预测    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**Speaker note — 核心讲法变化**
+
+- 这里**不**介绍 Sarasvathy 或理论背景
+- 先让学生**做了活动 → 自己发现了差异** → 然后才告诉他：你刚做的活动 A 叫 causation，活动 B 叫 effectuation
+- 概念是**对体验的命名**，不是去背诵的抽象定义
+
+🧠 **备选话术（如果仍有学生面露困惑）：**
+- "还是用做饭来想。Causation 是：你想做蛋糕 → 先找食谱 → 买材料 → 按步骤。Effectuation 是：看看冰箱里有什么 → 有什么就做什么。你肯定都做过。"
+
+---
+
+## Slide 4 — Sarasvathy's Discovery (NEW — 1 min — 缩短版)
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   📊 但这不是我编的                                    ║
+║                                                      ║
+║   Saras Sarasvathy 研究了 27 位                          ║
+║   有 15+ 年经验、多次成功退出的创业老手                 ║
+║                                                      ║
+║   发现了一个反直觉的真相：                              ║
+║   ❌ 创业老手不怎么做计划                              ║
+║   ✅ 他们看自己手上有什么，然后就动手了                  ║
+║                                                      ║
+║   这就是 Effectuation 的理论基础 —                      ║
+║   不是「应该怎么做」，是「最厉害的那群人实际怎么做」       ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**Speaker note:** 大幅缩短。原来花了 2 分钟讲背景研究，现在浓缩到 1 分钟。重点不在 Sarasvathy，在学生自己刚刚的体验。
+
+---
+
+## Slide 5 — 5 个 Principle 概览 (30 sec)
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║       Sarasvathy 发现的 5 个 Effectuation 原则        ║
 ║                                                      ║
 ║    1. 🐦 Bird-in-Hand                                ║
-║       "Start with who you are, what you know,        ║
-║        and who you know"                             ║
+║       "从你是谁开始"                                  ║
 ║                                                      ║
 ║    2. 💰 Affordable Loss                             ║
-║       "Invest only what you can afford to lose"      ║
+║       "只投你输得起的"                                ║
 ║                                                      ║
 ║    3. 🧩 Crazy Quilt                                 ║
-║       "Build partnerships, don't compete"             ║
+║       "先合作，再竞争"                                 ║
 ║                                                      ║
 ║    4. 🍋 Lemonade                                    ║
-║       "Embrace surprises — turn bad news into        ║
-║        opportunity"                                  ║
+║       "意外 = 机会"                                   ║
 ║                                                      ║
 ║    5. ✈️ Pilot-in-the-Plane                         ║
-║       "Focus on what you can control"                 ║
+║       "控制你能控制的"                                 ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-**Speaker note:** "Today we go deep on the first two. We'll come back to the other three in Weeks 4, 6, and 8."
+**Speaker note:** "今天深入前两个。剩下三个在 Week 4, 6, 8 我们再回来。"
 
 ---
 
-## Slide 5 — Principle 1: Bird-in-Hand (5 min)
+## Slide 6 — Principle 1: Bird-in-Hand (3 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║      🐦  Principle 1: Bird-in-Hand                   ║
 ║                                                      ║
-║   "Start with who you are, what you know,            ║
-║    and who you know"                                 ║
-║                                                      ║
+║   "从你是谁、你懂什么、你认识谁开始"                    ║
 ║                                                      ║
 ║   ┌──────────────────────────────────────────┐       ║
-║   │  WHO I AM    │  WHAT I KNOW  │  WHO I KNOW│     ║
-║   │──────────────┼───────────────┼────────────│     ║
-║   │ Skills       │ Expertise     │ Network     │     ║
-║   │ Experience   │ Domains       │ Mentors     │     ║
-║   │ Personality  │ Hobbies       │ Partners    │     ║
+║   │  你是谁  │  你懂什么  │  你认识谁          │     ║
+║   │──────────┼───────────┼───────────────────│      ║
+║   │ 技能     │ 专业知识  │ 人脉             │      ║
+║   │ 经验     │ 行业      │ 导师             │      ║
+║   │ 性格     │ 爱好      │ 合作伙伴          │      ║
 ║   └──────────────────────────────────────────┘       ║
 ║                                                      ║
-║   🔑 Key insight: You don't need to find resources   ║
-║      — you already have them                        ║
+║   🔗 不创业的人也适用：                                ║
+║      面试时用这个框架，帮你想你手上有什么筹码           ║
+║      选实习时，问「哪个能最大化我已有的东西」            ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
+**Speaker note — 关键变化**
+
+原来的 Slide 5 只讲了理论。现在每个 principle 多了 **🔗 95% 连接点**——对不创业的人有什么意义。
+
+🧠 **备选话术（如果学生不理解为什么关心这个）：**
+- "你找实习的时候有没有想过这个问题？你把简历甩到 50 家公司，等他们决定要不要你——这是 causation。另一条路：你整理你认识的人、你会的东西、你做过的项目——然后从这些出发去找——这是 effectuation。"
+
 ---
 
-## Slide 6 — Bird-in-Hand: Carousell Case (3 min)
+## Slide 7 — Bird-in-Hand: Carousell Case (2 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
@@ -137,225 +216,221 @@
 ║                                                      ║
 ║     Three NUS friends: Siu Rui, Marcus, Lucas        ║
 ║                                                      ║
-║     ┌─────────────┬─────────────────────────┐        ║
-║     │ WHO I AM   │ Mobile developers +      │        ║
-║     │            │ Designers                │        ║
-║     ├─────────────┼─────────────────────────┤        ║
-║     │ WHAT I KNOW│ Marketplace UX from      │        ║
-║     │            │ previous projects        │        ║
-║     ├─────────────┼─────────────────────────┤        ║
-║     │ WHO I KNOW │ NUS classmates,          │        ║
-║     │            │ early adopters on campus │        ║
-║     └─────────────┴─────────────────────────┘        ║
+║   ┌─────────────┬─────────────────────────┐          ║
+║   │ 你是谁     │ 移动开发者 + 设计师        │          ║
+║   ├─────────────┼─────────────────────────┤          ║
+║   │ 你懂什么   │ 市场经验 (之前做过项目)    │          ║
+║   ├─────────────┼─────────────────────────┤          ║
+║   │ 你认识谁   │ NUS 同学 — 第一批用户     │          ║
+║   └─────────────┴─────────────────────────┘          ║
 ║                                                      ║
-║     🚀 Result: First version built in a weekend      ║
+║   🚀 第一版只用一个周末 — 零资金启动                   ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
-**Speaker note:** Tell the story. Don't read the slide. "The three founders had no money, no office, no investors. But they had mobile development skills, design experience from past projects, and a network of NUS classmates who might want to buy and sell stuff on their phones."
+**Speaker note:** Tell the story. "他们没有钱、没有办公室、没有投资人。但他们有编程经验、设计技能、NUS 同学圈子。他们从这个出发，而不是等万事俱备。"
 
 ---
 
-## Slide 7 — Bird-in-Hand: Your Turn (3 min)
+## Slide 8 — ✍️ Bird-in-Hand: 你的版本 — Think-Pair-Share (4 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║     ✏️ Your Bird-in-Hand: 60 seconds                 ║
+║     ✏️ 你的 Bird-in-Hand                              ║
 ║                                                      ║
-║     "What is ONE resource you have right now         ║
-║      that could be the starting point of             ║
-║      a venture?"                                     ║
+║   「你现在手上有什么资源，                                     ║
+║     能成为什么事情的起点？」                                  ║
 ║                                                      ║
-║        It could be:                                   ║
-║        • A skill (coding, design, writing, speaking)  ║
-║        • Knowledge (an industry you understand)       ║
-║        • A person (someone who could help)            ║
-║        • An asset (a tool, a space, a platform)       ║
+║   不一定要「开公司」 — 一个 side project、                     ║
+║   一个 passion initiative、一个新技能学习计划也算               ║
 ║                                                      ║
-║        ⏱ 60 seconds — write it down                  ║
+║   📝 独立思考 60 秒 → 和邻座分享 1 分钟 → 全班讨论            ║
+║   └──────────────────────────────────────────────────┘ ║
+║   （提示卡：如果卡住了，想想                           ║
+║    你最近一次朋友请你帮忙的事是什么）                    ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
+💬 **Think (60 秒):** "现在请你打开手机的备忘录，或者拿张纸。60 秒独立思考。不讨论。写下来。（30 秒时提醒：「如果卡住了，想想最近朋友找你帮过什么忙」）"
+
+💬 **Pair (1 分钟):** "好，现在和邻座用 1 分钟交换你写的。不用读完整——就说：'我写的这个，它和什么相关'。开始。"
+
+💬 **Share (2 分钟):** "我随机叫几个人——或者有谁愿意主动说说你发现了什么？……（等 10 秒）没人自己举手？好，我来随机点一个人。……这位同学，你刚才发现了自己有什么资源？"
+
+🧠 **备选话术（冷场备选）：**
+- "刚才我让一个人分享的时候没人举手——这个很正常。没关系。那换个方式问：'有多少人发现自己写的东西是某个技能？' 举手让我看看……好，那边那位，你的技能是什么？"
+
 ---
 
-## Slide 8 — Transition to Principle 2 (30 sec)
+## Slide 9 — Transition to Affordable Loss (30 sec)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║   "But what about risk?                               ║
-║                                                      ║
-║    'Bird-in-Hand sounds good, but what if            ║
-║     I lose everything I have?'"                      ║
+║   "Bird-in-Hand 听起来不错，                             ║
+║    但万一我把手上的东西输光了呢？"                      ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## Slide 9 — The Myth of the Fearless Entrepreneur (30 sec)
+## Slide 10 — The Myth & Affordable Loss Intro (1 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║   🎭 The Myth: Entrepreneurs are fearless            ║
-║       risk-takers                                    ║
+║   🎭 创业者的神话                                      ║
+║      「创业者是天生的冒险家，敢于 ALL-IN」               ║
 ║                                                      ║
-║   🧠 The Reality: Expert entrepreneurs are           ║
-║       very careful — they just calculate             ║
-║       risk differently                               ║
+║   🧠 真相                                              ║
+║      真正成功的创业者最怕死                             ║
+║      他们只是算风险的方式不一样                         ║
+║                                                      ║
+║   💰 Principle 2: Affordable Loss                     ║
+║      "只投你输得起的"                                  ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## Slide 10 — Principle 2: Affordable Loss (5 min)
+## Slide 11 — Affordable Loss 深度讲解 (3 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║      💰  Principle 2: Affordable Loss                 ║
+║      💰  Affordable Loss                               ║
 ║                                                      ║
-║   "Invest only what you can afford to lose"          ║
+║   ❌ 常规思维：                                        ║
+║      "这件事能赚多少？"                                 ║
+║      → 算潜在回报 → 过高估计 → 砸太多钱                 ║
 ║                                                      ║
-║   ┌──────────────────────────────────────────────┐   ║
-║   │   ❌ Traditional thinking:                    │   ║
-║   │   "How much could I MAKE?"                   │   ║
-║   │   → Project millions → Overspend → Burn      │   ║
-║   └──────────────────────────────────────────────┘   ║
+║   ✅ 有效思维：                                        ║
+║      "我最多会输多少？"                                 ║
+║      → 先算损失上限 → 用输得起的钱 → 允许试错           ║
 ║                                                      ║
-║   ┌──────────────────────────────────────────────┐   ║
-║   │   ✅ Effectual thinking:                      │   ║
-║   │   "What's the MOST I could LOSE?"             │   ║
-║   │   → Cap downside → Take smart risks → Iterate │   ║
-║   └──────────────────────────────────────────────┘   ║
+║   🔗 不创业的人也适用：                                 ║
+║      选 non-fixed 项目前问自己：                        ║
+║      "如果这件事最后没用，我能接受吗？"                   ║
+║      如果是 → 值得试                                   ║
+║      如果不是 → 算了                                  ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
+🧠 **备选话术（学生不理解 'affordable loss' 和 '没勇气' 的区别）：**
+- "这不是叫你不要冒险。是教你 **怎么算险**。跳伞不危险——开伞包之前算好了。创业也一样。"
+
 ---
 
-## Slide 11 — Affordable Loss: Dyson Example (2 min)
+## Slide 12 — Case: Dyson + James (1.5 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║      🔬 Case: James Dyson                            ║
 ║                                                      ║
-║                                                      ║
 ║                 5,126                                  ║
 ║                 ═══════                               ║
 ║             failed prototypes                         ║
 ║                                                      ║
-║   But each prototype cost a small, survivable        ║
-║   amount.                                            ║
+║   关键：他不是硬撑 5,126 次                              ║
+║   是**每一次**的损失他都能承受                             ║
+║   如果第 1 次就砸了全部家当——他撑不到 5,126                ║
 ║                                                      ║
-║   He didn't bet the farm on prototype #1.            ║
-║   He bet small, learned, and iterated.                ║
-║                                                      ║
-║   🔑 Key insight: Affordable Loss = Permission       ║
-║      to take risks                                   ║
+║   🔑 Affordable Loss 不是「不要冒险」                   ║
+║     是「让冒险能持续下去」                               ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## Slide 12 — Affordable Loss: Your Turn (3 min)
+## Slide 13 — ✍️ 你的 Affordable Loss — Think-Pair-Share (3 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║     ✏️ Your Affordable Loss: 60 seconds              ║
+║     ✏️ 你输得起的极限在哪里？                            ║
 ║                                                      ║
-║     "What's the most YOU could invest —               ║
-║      without it hurting?"                            ║
+║       按你自己的真实情况填：                            ║
+║        • 💵 钱：我每月最多能花 $___ 不心疼               ║
+║        • ⏰ 时间：我每周能拿出 ___ 小时 （不影响学习）     ║
+║        • 🫂 面子：我敢开口找 ___ 个人聊我的想法           ║
 ║                                                      ║
-║        • 💵 Money: $___ per month                    ║
-║        • ⏰ Time: ___ hours per week                 ║
-║        • 🫂 Reputation: How much ego can you risk?   ║
+║     📝 Think 60 秒 → Pair 1 分钟 → Share 2 分钟        ║
 ║                                                      ║
-║        ⏱ 60 seconds — calculate it                   ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
-## Slide 13 — Singapore Student: Real Numbers (1 min)
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║     🇸🇬 What Affordable Loss Means for                ║
-║        an SIT Student                                ║
-║                                                      ║
-║     ┌──────────────────────────────────────┐         ║
-║     │ 💵 Money: $200-$500 in savings        │         ║
-║     │    (not nothing, but survivable)      │         ║
-║     │                                      │         ║
-║     │ ⏰ Time: 5-10 hours a week            │         ║
-║     │    (weekends, after class)            │         ║
-║     │                                      │         ║
-║     │ 🫂 Reputation: Willing to look        │         ║
-║     │    foolish for an experiment           │         ║
-║     └──────────────────────────────────────┘         ║
-║                                                      ║
-║   💡 When you cap downside, you free yourself         ║
-║      to actually START.                              ║
+║     💡 你算出极限的那一刻，                            ║
+║        你就获得了「自由」——                             ║
+║        因为你知道最坏结果是什么。                      ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
+💬 **Think (60 秒):** "如实填。不是别人能投多少，是你自己。诚实就行。我们不会收集这个。这是给你自己的。"
+
+💬 **Pair:** "和邻座互相看看——如果你的邻居写 '我只能投 50 块、2 小时'，这个数字够不够做一些事？"
+
+💬 **Share:** "有没有人愿意分享一下——你的 '极限数字' 比你想象的大还是小？"
+
 ---
 
-## Slide 14 — Why These Two Matter Together (2 min)
+## Slide 14 — Why Together + 95% 落脚点 (NEW — 2.5 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║     Bird-in-Hand  +  Affordable Loss                 ║
 ║                                                      ║
-║     ┌──────────────────────────────────────────┐     ║
-║     │  "What do I have?"  +  "What can I       │     ║
-║     │   afford to lose?"                        │     ║
-║     │                                          │     ║
-║     │  =  Permission to START NOW               │     ║
-║     │     with what you already have            │     ║
-║     └──────────────────────────────────────────┘     ║
+║     =   "我有什么？"  +  "我输得起多少？"               ║
 ║                                                      ║
-║   This is the foundation for everything else this    ║
-║   semester.                                          ║
+║     =   行动的许可证                                    ║
+║                                                      ║
+║   💡 不管你这学期结束后会不会开公司 —                    ║
+║      这个框架会帮你一辈子。                              ║
+║                                                      ║
+║   🔗 毕业后找工作：                                    ║
+║      列出你的技能、经验、人脉（Bird-in-Hand）          ║
+║      选一个有下限保障的选项（Affordable Loss）         ║
+║      → 不以冒险换机会，而是用已有的去创造机会            ║
+║                                                      ║
+║   🔗 工作中做决策：                                    ║
+║      "这事最差能怎样？如果我能承受，我就试试"           ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
+**Speaker note — 这才是最重要的 slide**
+
+原来 Slide 14 说 "this is the foundation for everything this semester"。现在改成 **"this applies to everything in your life"**。讲慢一点。让这段话落地。
+
 ---
 
-## Slide 15 — Quick Recap (1 min)
+## Slide 15 — Recap (1 min)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║     📋 Session Recap                                 ║
+║     📋 今天讲的内容                                    ║
 ║                                                      ║
-║   Sarasvathy's discovery:                             ║
-║   Expert entrepreneurs ≠ Managers                    ║
+║   你首先体验了两种思考方式：                            ║
+║   🅰 有目标 → 做计划 → 执行（Causation）               ║
+║   🅱 有资源 → 看能做啥（Effectuation）                  ║
 ║                                                      ║
-║   Causation vs. Effectuation:                        ║
-║   Plan-first vs. Means-first                         ║
+║   然后我们知道了：创业老手倾向于用 🅱                     ║
 ║                                                      ║
-║   🐦 Bird-in-Hand:                                   ║
-║   Start with what you have                           ║
-║   → Carousell: three friends, a weekend, $0 launch   ║
+║   🐦 Bird-in-Hand:                                    ║
+║   从你已拥有的开始                                    ║
 ║                                                      ║
-║   💰 Affordable Loss:                                ║
-║   Cap downside. Take smart risks.                    ║
-║   → Dyson: 5,126 failures → $1B+ company             ║
+║   💰 Affordable Loss:                                 ║
+║   只投你输得起的                                      ║
+║                                                      ║
+║   🎯 这不是「创业课」                                 ║
+║     这是「不管你在哪都会用到的资源思维课」              ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -368,11 +443,11 @@
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║                                                      ║
-║     Don't ask:                                       ║
-║     "What do I NEED?"                                ║
+║     别问：                                           ║
+║     "我缺什么？"                                     ║
 ║                                                      ║
-║     Ask:                                             ║
-║     "What do I HAVE?"                                ║
+║     问：                                             ║
+║     "我有什么？"                                     ║
 ║                                                      ║
 ║                                                      ║
 ║       [IMAGE: Mirror reflection]                     ║
@@ -382,25 +457,21 @@
 
 ---
 
-## Slide 17 — Next Week Preview & Homework (30 sec)
+## Slide 17 — Next Week & Homework (30 sec)
 
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║     📅 Next Week: Design Thinking                    ║
-║        Stanford d.school 5-stage model               ║
-║        Mini design sprint — solve a campus problem   ║
+║     📅 下周：Design Thinking                          ║
+║        学怎么找到值得解决的问题                         ║
 ║                                                      ║
-║     📝 Homework (due Friday):                        ║
-║        "Apply one effectuation principle             ║
-║         to a decision you made this week"            ║
-║         — 250 words, submit via LMS                  ║
+║     📝 作业（周五前）：                                ║
+║        "用今天学的任何一个原则，                         ║
+║         反思你这周做过的一个决定"                       ║
+║         — 250 字，LMS 提交                            ║
 ║                                                      ║
-║     📖 Reading: "What Makes Entrepreneurs            ║
-║        Entrepreneurial?" — Sarasvathy (HBR)          ║
-║                                                      ║
-║     🤝 Team formation: Start finding                  ║
-║        teammates with different skills               ║
+║     🤝 开始找队友（3-4人，不同技能）                     ║
+║        Week 3 前组好                                   ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -421,41 +492,43 @@
 ║       [SIT / Department]                             ║
 ║                                                      ║
 ║                                                      ║
-║         "Don't ask 'what do I need?'                 ║
-║          Ask 'what do I have?'"                      ║
+║         "别问我缺什么——                                 ║
+║          问我就有什么。"                               ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## Summary: 30-Minute Timing
+## Summary: 30-Minute Timing (修改后)
 
-| Segment | Slides | Time |
-|---------|--------|------|
-| **Hook: The $5,000 Challenge** | Slide 2 | 2 min |
-| **Sarasvathy's Discovery** | Slide 3 | 2 min |
-| **5 Principles Overview** | Slide 4 | 1 min |
-| **Bird-in-Hand deep dive** | Slides 5-6 | 5 min |
-| **✍️ Interactive: Your Bird-in-Hand** | Slide 7 | 3 min |
-| **Transition to Affordable Loss** | Slides 8-9 | 1 min |
-| **Affordable Loss deep dive** | Slides 10-11 | 5 min |
-| **✍️ Interactive: Your Affordable Loss** | Slide 12 | 3 min |
-| **Singapore student context** | Slide 13 | 2 min |
-| **Why these two together** | Slide 14 | 2 min |
-| **Recap** | Slide 15 | 1 min |
-| **One sentence to remember** | Slide 16 | 1 min |
-| **Next week + homework** | Slide 17 | 1 min |
-| **Thank you / Q&A transition** | Slide 18 | 1 min |
-| **Total** | | **~30 min** |
+| Segment | Slides | Time | 变化 |
+|---------|--------|------|------|
+| **开场 + Why Should I Care** | Slide 1 | 1.5 min | 🆕 新增连接点 |
+| **🧪 体验活动：Causation vs Effectuation** | Slide 2 | 5 min | 🆕 先体验后命名 |
+| **命名 + 理论** | Slides 3-4 | 2.5 min | 🔄 缩短理论，突出体验 |
+| **5 Principles 概览** | Slide 5 | 30 sec | ⬅️ 保留 |
+| **Bird-in-Hand 讲解** | Slides 6-7 | 5 min | 🔄 增加 95% 连接点 |
+| **✍️ Think-Pair-Share: Your Bird-in-Hand** | Slide 8 | 4 min | 🔄 三级结构 |
+| **Transition + Myth** | Slides 9-10 | 1.5 min | ⬅️ 保留 |
+| **Affordable Loss 讲解** | Slides 11-12 | 4.5 min | 🔄 增加连接点 + 备选话术 |
+| **✍️ Think-Pair-Share: Your Affordable Loss** | Slide 13 | 3 min | 🔄 三级结构 |
+| **Why Together + 95% 落脚点** | Slide 14 | 2.5 min | 🆕 全新重构 |
+| **Recap** | Slide 15 | 1 min | 🔄 重写结尾落脚点 |
+| **One Sentence** | Slide 16 | 30 sec | ⬅️ 保留 |
+| **Next Week + Homework** | Slide 17 | 30 sec | ⬅️ 保留 |
+| **Thank You** | Slide 18 | 30 sec | ⬅️ 保留 |
+| **Total** | | **~30 min** | |
 
 ---
 
-## Design Principles for These Slides
+## Design Principles (更新版)
 
 1. **No paragraphs.** Each slide = 1 idea, 3-5 lines max
 2. **Big numbers.** "5,126" is visual; "$5,000" is visual
 3. **Images over text.** Use logos (Carousell), portraits (Sarasvathy), icons
 4. **Singapore-first.** Every case is local
-5. **Interactive hooks.** Slides 7 and 12 prompt the audience to participate
-6. **Speaker notes drive delivery.** Slides are visual anchors, not scripts
+5. **Think-Pair-Share structure.** Every interaction = Think → Pair → Share
+6. **备选话术链.** 每个关键讲解点都有 2 套话术（正常讲 + 如果学生不理解）
+7. **95% 连接点.** 每个 principle 结尾告诉不创业的人为什么应该 care
+8. **Speaker notes drive delivery.** Slides are visual anchors, not scripts

@@ -1,303 +1,377 @@
-# Week 2 — Interview Script (Word-for-Word)
+# Week 2 — Interview Script (Word-for-Word, Teaching-Focused)
 ## 30-minute teaching session + 15-minute Q&A
 
 *For the committee pre-class interview. This is a full word-for-word script of everything you could say. Use it to rehearse. Adapt naturally in the room.*
 
 ---
 
-## Part 1: Hook — The $5,000 Challenge (2 min)
+> 🎯 **教学法整体框架：**
+>
+> 本次教学演示采用以下三大教学策略应对评委的三大关切：
+>
+> | 评委关切 | 对应策略 | 本课体现 |
+> |----------|----------|----------|
+> | 学生不理解概念区别 | **体验式学习** — 先做活动再命名 | Slide 2 的体验活动 → Slide 3 的命名 |
+> | 学生对内容不感兴趣 | **"Why Should I Care" 框架 + 95% 连接点** | 开场30秒、每个原则末尾的 🔗 连接 |
+> | 互动学生不愿参与 | **Think-Pair-Share 三级结构 + 备选话术** | 每个互动标有 💬 Think/Pair/Share 分步 |
+>
+> 脚本中用以下标记标注关键教学节点：
+> - 💬 **T-P-S 指令** = 教师说的具体互动词
+> - 🧠 **备选话术** = 学生不理解或冷场时的降维解释
+> - 🔗 **95% 连接点** = 对非创业学生的意义
 
 ---
 
-**[SLIDE 2 — The $5,000 Challenge]**
-
-*(Stand comfortably. Make eye contact. Don't rush.)*
-
-"Good [morning/afternoon]. I want to start with a question.
-
-*(Pause. Look at someone in the room.)*
-
-"You have five thousand dollars — and two weeks — to start a business. What do you do?
-
-*(Pause 3 seconds. Let the question hang.)*
-
-"Most of you — and I mean *most MBA students, most first-year entrepreneurs, most people in general* — will do the same thing. You'll research the market. You'll write a business plan. You'll forecast revenue. You'll try to predict whether it's going to work.
-
-"Here's the thing: that's not how expert entrepreneurs actually think.
-
-"A professor named Saras Sarasvathy — at the University of Virginia — did something fascinating. She interviewed 27 expert entrepreneurs. These were founders with 15+ years of experience, multiple successful companies under their belt. And she compared their thinking to MBA students and corporate managers.
-
-"What she found? Expert entrepreneurs don't start with a plan. They start with a question. A very different question.
-
-"*'What do I have right now?'*
-
-"One question. Two different ways of thinking. Today, that's what we're going to explore — and I promise, you'll walk out of this session seeing your own life differently."
+## Part 1: 开场 — Why Should I Care (1.5 min)
 
 ---
 
-## Part 2: Sarasvathy's Discovery (2 min)
+**[SLIDE 1 — Title Slide]**
+
+*(站好。微笑。不要念稿。)"
+
+"大家中午好。我知道，在座很多人选这门课不是因为你们想开公司。
+
+*(停顿。扫视全班。)*
+
+"可能你是专业要求选的。可能你朋友推荐说这课"比较轻松"。可能你只看到一个空位就选了。
+
+"不管你是什么原因在这里，我今天讲的东西都和你有关。
+
+"我今天不讲怎么注册公司。不讲怎么找投资人。不讲怎么做 50 页的商业计划书。
+
+"我讲的是一个更底层的东西——**一种做决策的框架**。这个概念来自对世界上最成功的创业老手的研究，但它对你在公司做事、找实习、搞 passion project、甚至只是规划大学生活——都同样适用。
+
+"不管你毕业后进大公司还是自己创业——无论走哪条路——这个框架都能帮你**用已有的东西，创造更大的价值**。
+
+"好，我们开始。"
 
 ---
 
-**[SLIDE 3 — How Expert Entrepreneurs Actually Think]**
-
-*(Transition to the slide. Point to the diagram.)*
-
-"Sarasvathy called this contrast **causation** versus **effectuation**.
-
-"The causation path — the one most people take — goes like this:
-
-*(Gesture left side)*
-
-"*'I have a goal. Let me make a plan to achieve it. Then I'll execute the plan.'*
-
-"That's how you plan a wedding, or build a bridge, or write a term paper.
-
-"But expert entrepreneurs — the people who've actually done this multiple times — use the other path. They start with the means they have and ask: *'What can I create with these means?'*
-
-"That's effectuation.
-
-"Now — both approaches are valid. Causation is great for predictable situations. But entrepreneurship? It's deeply unpredictable. And for unpredictable situations, effectuation is not just better — it's the *only* way that reliably works."
+## Part 2: 🧪 体验活动 — 两种思考方式 (5 min)
 
 ---
 
-## Part 3: The 5 Principles (1 min)
+**[SLIDE 2 — 体验活动：两种思考方式]**
+
+*(转向屏幕。指到活动文字。)*
+
+"我先不教你们概念。我们先做两个简单的活动。"
+
+*(拿出手机设置 60 秒计时器。)*
+
+💬 **Think (30 秒):** "第一个活动。在纸上写下这个问题的答案——**'你这个暑假要赚 1000 块钱。写出 3 步计划。'** 独立想。不要和旁边的人讨论。30 秒。开始。"
+
+*(安静等待。观察谁在写谁在发呆。)*
+
+*(30 秒后：)* "好。停笔。"
+
+💬 **Think (30 秒):** "第二个活动。换一个情景——**'你手上有：一部手机、200 块钱、周日全天空闲。你能想到做什么？'** 也是 30 秒。开始。"
+
+*(等 30 秒。)* "好。现在看看你写的东西——有没有发现这两个问题，你思考的方式有点不一样？"
+
+💬 **Pair (1 分钟):** "现在和你的邻座用 1 分钟讨论一下——你们对第一个问题是怎么思考的？对第二个问题呢？哪一次感觉更自由？哪一次感觉更紧张？开始。"
+
+💬 **Share (X 分钟):** "好。我想请几组分享你们的发现。谁来先说？……"
+
+*(等待 5 秒。如果没人举手：)*
+
+"'有多少人觉得第一个问题——**赚 1000 块**——更像是在按步骤走？来，举手让我看看。"
+
+*(数一下。)*
+
+"'有多少人觉得第二个问题——**手上有手机、200 块**——更像在开脑洞、有什么做什么？"
+
+*(数一下。)*
+
+"好，那边那位——你在第二个问题里写了什么主意？"
+
+*(听回答。点点头。)*
+
+🧠 **备选话术（如果仍然有一脸茫然的学生）：**
+
+"'这其实就像做饭。第一个问题是——你做蛋糕。先找食谱，然后买材料，然后按步骤烤。第二个问题是——看看冰箱里有什么，有什么就做什么，叫'随手晚餐。' 你没试过做蛋糕，难道没试过随便打开冰箱弄点东西吃吗？"
+
+"'还有同学不理解？好，再说一个——第一个问题是你要**开车去一个确定的地址**——你会查地图、导航、加油、按路线走。第二个问题是**周末开车出去兜风**——你漫无目的，看到路边有个好玩的就停下来看看。这两种开车没有对错，只是**方式完全不一样**。我们前面做的两个活动，正好对应了这两种开车的思维方式。"
 
 ---
 
-**[SLIDE 4 — Sarasvathy's 5 Effectuation Principles]**
-
-*(Gesture to the slide.)*
-
-"Sarasvathy discovered that expert entrepreneurs use five principles. I want to show you all five right now — but we're going to go deep on just the first two today.
-
-*(Read them briefly, pointing at each.)*
-
-"**Bird-in-Hand:** Start with who you are, what you know, who you know.
-
-"**Affordable Loss:** Invest only what you can afford to lose.
-
-"**Crazy Quilt:** Build partnerships before you compete.
-
-"**Lemonade:** Embrace surprises — turn bad news into opportunity.
-
-"**Pilot-in-the-Plane:** Focus on what you can control.
-
-"We'll cover the remaining three in Weeks 4, 6, and 8. But these first two — Bird-in-Hand and Affordable Loss — are the foundation. If you internalize these, the rest will follow naturally."
+## Part 3: 命名 + 理论 (2.5 min)
 
 ---
 
-## Part 4: Bird-in-Hand — Deep Dive (5 min)
+**[SLIDE 3 — 正式命名：两种思考模式]**
+
+"好。我来告诉你们，这两个东西在理论里叫什么。
+
+*(指着活动 A。)*
+
+"第一个问题的思考方式叫 **Causation**（因果推理）——你有目标、做计划、然后执行。
+
+*(指着活动 B。)*
+
+"第二个叫 **Effectuation**（使然推理）——你有资源，看能创造出什么。
+
+"这两个名字不重要。忘掉它们也没关系。**重要的是：这两个思考方式适用不同的场景。**
+
+"Causation 适合你能预测的情况。比如你申请签证——流程是明确的，按步骤来就好。
+
+"Effectuation 适合你**不太确定会发生什么**的情况。而创业——以及现实生活中大多数重要决定——都属于后者。
+
+"你永远没办法预测一个 app 会不会火，一个实习机会能不能转正，一个新朋友能不能变成合作伙伴。但你可以定义你手上有什么，和你能承受什么样的风险。"
 
 ---
 
-**[SLIDE 5 — Principle 1: Bird-in-Hand]**
+**[SLIDE 4 — Sarasvathy's Discovery]**
 
-"Let's start with principle one: **Bird-in-Hand**.
+*(过渡到 slide。语气更轻松。)*
 
-*(Pause. Look at the room.)*
+"这不是我编出来的。有一位叫 Saras Sarasvathy 的研究者，专门去采访了 27 位有 15 年以上经验、已经多次成功退出公司的创业老手。
 
-"'Start with who you are, what you know, and who you know.'
+"她研究了这些人几十年，发现一件事：
 
-"Sounds simple — almost obvious, right? But think about how deeply counterintuitive this is. Every business book, every entrepreneurship course, every piece of conventional wisdom tells you: *research first, plan first, get money first, then start.*
+"❌ 他们不怎么做传统商业计划。
+"✅ 他们看自己手上有什么，然后就动手了。
 
-"Expert entrepreneurs do the opposite.
-
-"They look in the mirror — and into their phone contacts — and ask: *'What do I already have?'*
-
-*(Point to the three columns on the slide.)*
-
-"Three categories:
-- **Who you are:** Your skills, experience, personality. Not what you wish you had — what you *actually* have.
-- **What you know:** The domains, industries, hobbies you genuinely understand. The insights nobody else has because they haven't lived your life.
-- **Who you know:** Your network. Not 'CEOs of Fortune 500 companies' — your classmates, your professors, your Sunday league football team, your family."
-
-**[SLIDE 6 — Case: Carousell]**
-
-*(Transition. Speak more conversationally.)*
-
-"Let me give you a Singapore example you'll know.
-
-"Carousell. Three NUS friends: Siu Rui, Marcus, Lucas. Back in 2012.
-
-"Their Bird-in-Hand profile was remarkably simple:
-- **Who they were:** Mobile developers and designers.
-- **What they knew:** Marketplace user experience — from previous projects.
-- **Who they knew:** NUS classmates who might want to buy and sell stuff on their phones.
-
-"They didn't have venture capital. They didn't have an office. They didn't have a 50-page business plan.
-
-"What did they have? A weekend, some code, and a network.
-
-"And they built the first version in that weekend.
-
-"Now — Carousell is a \$1 billion+ company today. But here's the point: it didn't start that way. It started with what three friends already had in their hands."
-
-*(Pause.)*
-
-"So here's my question for you."
+"我让你们做的那个活动——你不是在猜该怎么做，你是刚刚亲身体验了这两种思维模式。现在你知道理论家们研究的到底是什么了。"
 
 ---
 
-## Part 5: Interactive — Your Bird-in-Hand (3 min)
+## Part 4: 5 个 Principles 概览 + 深入 Bird-in-Hand (5.5 min)
 
 ---
 
-**[SLIDE 7 — Your Bird-in-Hand: 60 seconds]**
+**[SLIDE 5 — 5 Principles 概览]**
 
-*(Turn to face the room. Make this feel like a conversation, not a lecture.)*
+"Sarasvathy 从这些老手身上归纳了 5 个原则。今天深入前两个。
 
-"I want you to take out your phone — or grab a piece of paper. Doesn't matter.
+*(快速指一遍。)*
 
-"One question. 60 seconds.
+"Bird-in-Hand（从你是谁开始）
+"Affordable Loss（只投你输得起的）
+"Crazy Quilt（先合作）
+"Lemonade（意外=机会）
+"Pilot-in-the-Plane（控制你能控制的）
 
-*(Read the prompt on the slide.)*
-
-"'What is ONE resource you have right now — one skill, one connection, anything — that could be the starting point of a venture?'
-
-"It doesn't have to be a billion-dollar idea. It doesn't have to be sexy. It just has to be *real.*
-
-"60 seconds. Go."
-
-*(Wait. Count down silently. At 30 seconds, say: "Thirty seconds — you've got time. If you're stuck, think about the last thing a friend asked you to help them with.")*
-
-*(At 10 seconds: "Ten seconds. Push yourself to write something down.")*
-
-*(At time:)* "OK, time's up. Hold onto that. We'll come back to it."
-
-*(Ask 1-2 people to share if comfortable. Otherwise, share your own example.)*
-
-"When I did this exercise as a student, I wrote: 'I know how to edit video.' That's not a billion-dollar insight. But for someone, that's a starting point. That's a skill someone in their network might need.
-
-"Here's the point. Nobody — and I mean *nobody* — wrote 'I have nothing.'"
-
-*(Pause to let that sink in.)*
+"剩下的三个 Week 4, 6, 8 我们回来。"
 
 ---
 
-## Part 6: Transition to Affordable Loss (1 min)
+**[SLIDE 6 — Principle 1: Bird-in-Hand]**
+
+"第一个原则：**Bird-in-Hand**。从你是谁、你懂什么、你认识谁开始。"
+
+*(指到 slide 上的三列。)*
+
+"三个维度：
+
+"**你是谁：** 你的技能、经验、性格。不是你希望自己有什么——是你**现在**有什么。
+"**你懂什么：** 你真正了解的行业、领域、兴趣爱好。别人没有经历过的、你知道的东西——因为你的生活别人没过过。
+"**你认识谁：** 你的联系人。不是 CEO——是你的同学、老师、朋友、家人。"
+
+🔗 **95% 连接点：**
+
+"有人会问——我不创业这个有什么用？举个例子：你找工作面试的时候，你可以用这个框架思考——**'在面试官面前，我手上有什么筹码？我的技能、我的经验、我的校友网络——我用什么来说服他们？'** 这就不是坐在那里等别人决定要不要你，而是主动分析自己有什么。"
+
+🧠 **备选话术（如果学生眼神呆滞）：**
+
+"'可能还是太抽象。想一个更简单的——你和一个朋友在一起，他说'周末没事做，去干嘛？' 如果你的回答是'我们去看电影'——causation，因为答案明确。如果你的回答是'我们看看这个商场有什么好玩的'——effectuation，因为你用已有的（商场、周末、闲逛心态）来创造可能性。你肯定做过第二种选择。这就是 Bird-in-Hand：先看你有什么，再决定去哪里。"
 
 ---
 
-**[SLIDE 8 — But what about risk?]**
+**[SLIDE 7 — Carousell Case]**
 
-"'OK,' you might be thinking. 'Bird-in-Hand sounds nice in theory. But what if I lose everything I have?'
+"举一个你们肯定知道的例子——Carousell。
 
-"That's a fair question. And it brings me to the second principle — and the myth I need to bust for you right now."
+"三个 NUS 朋友：Siu Rui、Marcus、Lucas。2012 年。
 
-**[SLIDE 9 — The Myth of the Fearless Entrepreneur]**
+"他们有什么？
+"- 三个人会做 app、会设计。
+"- 懂市场平台怎么运作——因为之前做过项目。
+"- 认识 NUS 的同学——这些人就是第一批用户。
 
-*(Speak slowly. Make eye contact.)*
+"他们没有办公室、没有投资、没有 50 页商业计划书。但他们有一个周末、几行代码、和一帮同学。第一版一个周末就做出来了。
 
-"Here's a myth about entrepreneurs: they're fearless risk-takers. They bet the house. They go all in.
-
-"That makes a great movie. But it's terrible business.
-
-"Expert entrepreneurs are actually *very* careful about risk. Very deliberate. They just calculate risk *differently* than you might expect."
-
----
-
-## Part 7: Affordable Loss — Deep Dive (5 min)
+"现在 Carousell 值 10 亿美金。但它不是从 10 亿开始的——它从三个朋友手头**已经有的东西**开始。"
 
 ---
 
-**[SLIDE 10 — Principle 2: Affordable Loss]**
-
-"Principle two: **Affordable Loss**.
-
-"'Invest only what you can afford to lose.'
-
-"The traditional approach — the one most of us are trained to use — is: *'How much could I make?'* If the projected return is big enough, go for it.
-
-*(Gesture left side of the slide.)*
-
-"That's how people end up spending \$50,000 on a business that fails. Because the projected returns looked amazing — but the downside was real.
-
-"Expert entrepreneurs flip the question. They ask: *'What's the most I could lose?'*
-
-*(Gesture right side of the slide.)*
-
-"They calculate the worst case. If they can survive it, they go ahead. If they can't, they don't.
-
-"This is not risk aversion. This is **intelligent risk-taking**.
-
-**[SLIDE 11 — James Dyson Example]**
-
-"Here's a famous example. James Dyson. 5,126 failed prototypes before the first working Dyson vacuum.
-
-*(Point to the big number on the slide.)*
-
-"5,126.
-
-"Most people hear that and think: 'He's a genius who never gave up.'
-
-"That's not the full story. The full story is: each failed prototype cost Dyson a small, survivable amount of money. He didn't bet the farm on prototype number one. He bet small, learned from the failure, iterated, and tried again.
-
-"And crucially — *Dyson never spent more than he could afford to lose at any given step.*"
-
-"That's why he could fail 5,125 times and still be standing to fail again."
-
-*(Pause.)*
-
-"Now translate that to your life."
+## Part 5: ✍️ Your Bird-in-Hand — Think-Pair-Share (4 min)
 
 ---
 
-## Part 8: Interactive — Your Affordable Loss (3 min)
+**[SLIDE 8 — 你的 Bird-in-Hand]**
+
+"好，现在轮到你了。"
+
+💬 **Think (60 秒):** "拿出手机备忘录，或者一张纸。60 秒。问题是——**'你现在手上有什么资源，能作为什么事情的起点？'**
+
+"不只是创业——一个 side project、一个 passion initiative、一个想学的新技能——都算。
+
+"独立想。不讨论。开始计时。"
+
+*(安静。数 30 秒完成后，轻声说：)* "还有 30 秒。如果卡住了，想想你最近一次朋友请你帮忙做的事是什么。那很可能就是你的一个技能。"
+
+*(10 秒后：)* "最后 10 秒，写下来。开始写。"
+
+💬 **Pair (1 分钟):** "好。现在和邻座用 1 分钟交换一下。不用全读，就说：'我写的是 xxx'。开始。"
+
+💬 **Share (给 2 分钟):** "好，我想请几个人来分享一下。不要紧张的，你写的是什么？……有谁愿意先说吗？……"
+
+*(等待 5 秒。如果冷场：)*
+
+"'好，换一个方法——'有多少人写了自己会的一项技能？' 举手让我看看。……那边那位，你写了什么技能？"
+
+*(让回答者说完。点点头。继续下一个人。)*
+
+"'你呢，写了什么？'
+
+"好。关键是——你们每一个人都写下了某个东西。没有人写 '我什么都没有'。因为你们都有。"
 
 ---
 
-**[SLIDE 12 — Your Affordable Loss: 60 seconds]**
-
-"Same exercise. 60 seconds. Write down your answer.
-
-"'What's the MOST you could invest — in money, time, or ego — without it actually hurting you?'
-
-"Be honest. Not aspirational. If you can only afford \$50 and 2 hours a week, write that. That's your affordable loss."
-
-*(Count down: 30 seconds → "Thirty seconds — no judgment, just honest numbers.")*
-
-*(10 seconds → "Ten seconds — write it down.")*
-
-*(Time:)* "OK. Hold onto that number."
-
-**[SLIDE 13 — Real Numbers for an SIT Student]**
-
-"Here's what Affordable Loss tends to look like for a student in Singapore.
-
-*(Point at the slide.)*
-
-"**Money:** Two to five hundred dollars from savings. Not nothing — but survivable if you lose it.
-
-"**Time:** Five to ten hours a week. Weekends, after class. Not impacting your grades.
-
-"**Reputation:** The willingness to look foolish. To pitch an idea that someone says is stupid.
-
-"And here's the magic — I mean this genuinely — when you define your affordable loss, you become *free* to take risks. Because you've already answered the scary question: *'What's the worst that can happen?'* And you know you can survive it."
+## Part 6: Transition + Affordable Loss (1.5 min)
 
 ---
 
-## Part 9: Why These Two Matter Together (2 min)
+**[SLIDE 9 — Transition]**
+
+"'Bird-in-Hand 听起来不错。但万一我把手上仅有的东西输光了呢？' — 这问得好。它带我到今天第二个原则。"
+
+**[SLIDE 10 — Myth + Affordable Loss Intro]**
+
+"先来破一个常见的误解。
+
+*(放低声音。慢慢地。)*
+
+"创业者不是天不怕地不怕的冒险家。那只是电影里的角色。
+
+"**真正成功创业很多次的人，恰恰最怕死。** 他们只是算风险的方式和普通人不一样——
+
+"普通人算：'这件事能赚多少？'
+"他们算：'我最多会输多少？'
+
+"这叫 **Affordable Loss（只投你输得起的）**。"
+
+---
+
+## Part 7: Affordable Loss 深度讲解 (4.5 min)
+
+---
+
+**[SLIDE 11 — Affordable Loss 原理]**
+
+"好的。Affordable Loss 就是用你能承受损失的极限来指导你的投入——而不是用可能赚多少来骗你投入更多。
+
+"一个是：'这件事能赚多少？' — 这个思路导致的问题是，当你看着那个宏伟的回报数字时，就很容易头脑发热，开始过度投入。最后创业不成，亏得很惨。
+
+"另一个是：'我最多会输多少？' — 先算损失上限。如果这个损失你承受得了——那就可以试试。承受不了——就换条路。
+
+🔗 **95% 连接点：**
+
+"还是不想创业的人怎么说？你选一个不是必选的目标——不管是一门课要不要多花时间，还是要不要参加一个组织——你可以先问自己：'如果这件事最后没有用，我能接受吗？' 如果能接受，那就值得尝试；如果不能，那就别参与。"
+
+🧠 **备选话术（逻辑仍然不清晰）：**
+
+"'有没有试过玩手游充钱？如果你月卡玩家（一个月 30 块），你会很舍得花钱——因为你提前算好了：'这个月我就花 30，超了不花'。这就是 affordable loss。但如果你氪一个 648 然后后悔一周——你就是没算损失上限。
+
+"'你真的理解了吗？还是拿做饭想。你做一道菜——花 50 块买了进口牛肉、3 种调料、烤箱纸。如果这道菜失败了你心疼吗？心疼。这就是超出 affordable loss。如果你只是用冰箱里已经有的蛋、面包做的炒蛋——失败了你心疼吗？不心疼。丢掉了就行。这不代表你做不好炒蛋——而是说你可以多做几次，直到做对为止。'
+
+"'所以 Affordble Loss 不是叫你不要冒险——是让你**可以持续冒险**。"
+
+---
+
+**[SLIDE 12 — Dyson Case]**
+
+"James Dyson。5,126 个失败的原型。"
+
+*(指着那个大大的 "5,126" 数字。)*
+
+"大部分人听到这个数字，想：'他是一个从不放弃的天才。'
+
+"这不是真相。真相是——每个失败的原型成本都很小，他完全能承受。
+
+"他没有在第一个原型上砸全部家当。他每次投一小笔钱，失败，学到了什么，再试。
+
+"关键是——**Dyson 从来没有在任何一步投入超过他能承受的损失。**
+
+"所以他才能失败 5,125 次，还能站着继续失败第 5,126 次。"
+
+*(停顿。)*
+
+"现在你想想你自己的事。"
+
+---
+
+## Part 8: ✍️ Your Affordable Loss — Think-Pair-Share (3 min)
+
+---
+
+**[SLIDE 13 — 你的 Affordable Loss]**
+
+"来。同样的练习。"
+
+💬 **Think (60 秒):** "真实地写下你自己的数字：
+
+"- 钱：我每个月最多能花____块，不心疼。
+"- 时间：我每周能拿出____小时，不影响学习。
+"- 面子：我敢开口和____个人聊我的想法。"
+
+"不要写你觉得 '应该能' 的数字。写真实的数字。这是给你自己的。开始。"
+
+*(30 秒：)* "还剩 30 秒。诚实就行。如果你只能投 50 块、2 小时——写下来。"
+
+*(时间到：)* "好。"
+
+💬 **Pair (1 分钟):** "现在和邻座讨论一下——如果你的邻居写了 '只能投 50 块、2 小时'，这个数字够不够做出一点有用的东西？开始。"
+
+💬 **Share (1 分钟):** "有没有人发现——你的实际数字比你想象的大还是小？随便说一个方向就好。不用报金额。"
+
+*(等待 3 秒。如果没人直接回答……)*
+
+"'我来先说我自己的——我第一次算的时候发现我能投的时间比我以为的少太多了。这其实是好事。因为知道之后我反而更容易说 '来吧'——因为已经知道了最坏结果。"
+
+"'你算出极限的那一刻，你就获得了自由——因为你已经回答了最可怕的问题：**
+
+**'最坏能怎么样？'**
+
+**而且你知道你能承受。**"
+
+---
+
+## Part 9: Why Together + 95% 落脚点 (2.5 min)
 
 ---
 
 **[SLIDE 14 — Bird-in-Hand + Affordable Loss]**
 
-"Now. Put these two principles together.
+"好，把这两个放一起。
 
-*(Gesture like connecting two pieces.)*
+"**Bird-in-Hand 告诉你**：'看看你手上有什么。'
+"**Affordable Loss 告诉你**：'看看你能承受多大的损失。'
 
-"**Bird-in-Hand** tells you: 'Look at what you already have.'
+"合在一起就是一个行动的许可：
+**'我可以现在就动起来，用我已有的，投我输得起的。'**
 
-"**Affordable Loss** tells you: 'Here's what you can safely risk.'
+"这是一个框架。它不要求你开一家公司才能用。
 
-"Put them together and you get a powerful permission slip: *'I can start now, with what I have, without risking more than I can handle.'*
+🔗 **95% 落脚点（这个 slide 最核心，讲慢一点）。**
 
-"That's it. That's the entire foundation of the entrepreneurial mindset we're building in this course.
+"如果你毕业后去公司上班——用这个框架思考你的选择：
+"- 整理你的技能、经验、人脉（Bird-in-Hand）。
+"- 选一个有下限保障、同时有机会发挥的选项（Affordable Loss）。
+"- 你不是拿你的职业生涯去冒险——而是用你已有的去创造增量机会。
 
-"Not a step-by-step formula for becoming a millionaire. Not a 100-page business plan template. Just: start with what you have. Risk only what you can lose. Move forward.
+"如果你是搞 passion project 或者副业——同样用这个框架：
+"- 用周末 5 小时、$200 的预算开始试（Affordable Loss）。
+"- 从你已有的技能和朋友网络出发（Bird-in-Hand）。
 
-"Everything else this semester — design thinking, customer discovery, MVP building, pitching — builds on this foundation."
+"如果你什么都不想做——今天你至少得了两个问题，可以带到你的生活中去问自己：
+"'**我有什么？' 和 '我输得起多少？'**
+
+"这个思维方式会帮你做所有事情。不管你会不会创业。"
+
+*(停顿 2 秒。让这段话落地。)*
 
 ---
 
@@ -307,41 +381,40 @@
 
 **[SLIDE 15 — Session Recap]**
 
-"Let me quickly recap what we covered today.
+"快速总结今天的内容：
 
-"**Sarasvathy's discovery:** Expert entrepreneurs don't think like managers or novices. They think effectually — starting with their means, not their goals.
+"**先体验了两种思考方式：**
+"有目标 → 做计划 → 执行（Causation）
+"有资源 → 看能做什么（Effectuation）
 
-"**5 principles — we went deep on the first two:**
+"— 创业老手倾向于用第二种。
 
-*(Point as you say each.)*
+"**两个原则深入了：**
+"🐦 Bird-in-Hand：从你已有的开始
+"💰 Affordable Loss：只投你输得起的
 
-"**Bird-in-Hand:** Start with what you have.
-"Case: Carousell — three friends, a weekend, zero dollars.
-
-"**Affordable Loss:** Cap the downside.
-"Case: Dyson — 5,126 prototypes, but each one was survivable.
-
-"And you — you built your own Effectual Profile. You know your starting resources and your risk limits right now."
-
----
-
-## Part 11: The One Sentence (30 sec)
+"**还有一个定位：**
+"这不是一个只让你 '学怎么开公司' 的课。
+"这是一个**能让你在任何地方都更灵活思考和决策的课**。"
 
 ---
 
-**[SLIDE 16 — One Sentence to Remember]**
+## Part 11: One Sentence (30 sec)
 
-*(Slow down. Make eye contact.)*
+---
 
-"If you remember nothing else from today, remember this one sentence.
+**[SLIDE 16 — One Sentence]**
 
-"Don't ask: *'What do I NEED?'*
+*(放慢。聚焦。)"
 
-"Ask: *'What do I HAVE?'*
+"如果今晚你只记住一句话——
 
-"That one shift — from scarcity to resourcefulness — is what separates people who never start from people who actually do."
+"别问：'我缺什么？'
+"问：'我有什么？'
 
-*(Pause.)*
+"那一个转变——**从焦虑自己不足，到发现自己的资源**——就是让你能迈出第一步的动力。"
+
+*(停顿。)*
 
 ---
 
@@ -349,160 +422,176 @@
 
 ---
 
-**[SLIDE 17 — Next Week: Design Thinking]**
+**[SLIDE 17 — Next Week & Homework]**
 
-"Next week: **Design Thinking**. We learn how to find problems worth solving — using the Stanford d.school's five-stage model. And you'll run a mini design sprint on a real campus problem.
+"📅 **下周：Design Thinking** — 学怎么找到值得解决的问题。
 
-"Your homework — due Friday:
-- Apply one effectuation principle to a real decision you make this week. 250 words. Submit via LMS.
-- Start talking to people about forming a team. Different skills. Finalize by Week 3.
+"📝 **作业（周五前）**：'用今天学的任何一个原则，反思你这周做过的一个决定。' 250 字，LMS 提交。
 
-"Reading: Sarasvathy's HBR article — 'What Makes Entrepreneurs Entrepreneurial?' Link is on the LMS."
+"🤝 **组队**：3-4 人一组，技能互补。Week 3 前组好。"
 
 ---
 
-## Part 13: Thank You (30 sec)
+## Part 13: Thank You & Q&A (30 sec)
 
 ---
 
 **[SLIDE 18 — Thank You]**
 
-*(Smile. Stand confidently.)*
+"谢谢大家的时间。
 
-"Thank you for your time.
+"别问我缺什么——问我就有什么。
 
-"Don't ask what you need — ask what you have.
-
-"I'm happy to take your questions."
+"我现在接受问答。"
 
 ---
 
-## Part 14: Q&A — 15 Minutes
+## Part 14: Q&A — 15 分钟
 
-*For the Q&A period after your teaching demo. These are the most likely questions the committee will ask. Have these answers ready — but deliver them conversationally.*
-
----
-
-### Q1: "You only covered two of the five principles. How do you justify that?"
-
-*(This is expected. You made a deliberate pedagogical choice — own it.)*
-
-"Great question. I made a deliberate choice to go deep on two rather than skim all five. Here's why.
-
-"In Week 1, students get an overview of all five as a preview. They see the landscape. In Week 2, rather than repeating that overview at the same shallow level, I take two principles and make them *personally relevant* — through the interactive worksheet and the reflective exercise.
-
-"Educational research — from Ambrose's 'How Learning Works' to the 'spiral curriculum' concept — shows that concepts taught once at surface level are forgotten within days. Concepts that students *apply to themselves* — through a personal worksheet, through reflection — are retained for the long term.
-
-"So in Week 2, we focus on Bird-in-Hand and Affordable Loss — which are the foundation. In Weeks 4, 6 and 8, I return to the other three principles when they're contextually relevant. Crazy Quilt maps naturally to partnership decisions in Week 7. Lemonade connects to pivoting in Week 6. Pilot-in-the-Plane shows up in the MVP testing phase.
-
-"This is spiral curriculum design — revisit concepts multiple times at increasing depth."
+*教学演示后的问答环节。评委最有可能问的教学法问题及回答。*
 
 ---
 
-### Q2: "This seems very interactive. How does it work in a large class?"
+### Q1 (核心重现): "你在 slides 里提到先做活动再命名——如果学生被那个活动中卡住，不肯参与怎么办？"
 
-*(Address the practical concern directly.)*
+*(这个问题实际是在测试你的冷场预案。)*
 
-"Fair concern. Here's my approach:
+"非常好的问题。我确实考虑过这个情况。我来列出我的三防线方案："
 
-"The interactive exercises are intentionally designed to work at any scale. The Effectual Profile worksheet — that's an individual exercise. Every student completes it, regardless of class size. The 'share with a partner' format requires no microphone, no stage, no setup.
+**第一层：降低门槛。**
 
-"I use a technique called *structured participation*: every student participates, but not by raising their hand in front of 80 people. They write. They pair-share. They complete a structured table.
+"'如果你卡住了——想想这个周末你无聊的时候做了什么事？——你打了一个游戏、刷了一个抖音、和朋友聊天。'每个人都能回答这个问题。从无聊的时候做的事出发，已经给了他们最直观的 '手头有什么' 的答案。"
 
-"Assessment-wise: the 60-second writing prompts are low-stakes accountability. I can quickly scan the room to see who's engaged versus who's lost. And I sample a few reflections each week — I don't need to read every single one to understand whether the class is learning.
+**第二层：先用举手投票制造安全氛围。**
 
-"So the answer is: interactive design scales when the interaction is *individual* and *structured*. It doesn't require small class sizes."
+"直接点名是最后的选择。我先问投票类问题——'有多少人第二个活动感觉更自由？'——这个问题不尴尬。所有人都敢举手。等他们举过手了，我再 '选' 一个人追问：'你为什么觉得更自由？'这时候他们已经被活动氛围保护了。"
 
----
+**第三层：如果全班都不参与——我自己上。**
 
-### Q3: "What's your assessment strategy for LO1 specifically?"
+"'我给你们一个例子。我刚才自己做了这个活动——我写的是：'我会画图。画图是我的技能。那我能用它做什么？——做一个小红书账号分享插画步骤，这不需要钱，只要手机。'"
 
-*(This is the core LO question. Show you understand alignment.)*
-
-"LO1 asks students to 'interpret the effectual entrepreneurship principles.' Notice the word is *interpret*, not *recite* or *memorize*.
-
-"So my assessment doesn't ask: 'List the five principles.' It asks: 'Apply one principle to a decision you made this week.' The weekly reflection — 250 words — is the primary assessment vehicle for LO1.
-
-"When I grade that reflection, I'm looking for genuine application. Did the student really try to use Affordable Loss on a Tuesday afternoon decision? Did it change their thinking? Even if they struggled — especially if they struggled — that's learning.
-
-"This is reinforced in Week 6 with the MVP test plan. I ask: 'What is your riskiest assumption, and how are you testing it at affordable loss?' If students can answer that, they've truly interpreted effectuation — not just memorized it."
+"给出具体示范之后，那些不知道从哪开始的学生往往就有了参考点。而且这种 '我先替你做一遍' 的方式比任何鼓励都有效。"
 
 ---
 
-### Q4: "Why is everything Singapore-specific? Aren't we teaching universal principles?"
+### Q2: "你的 Think-Pair-Share 方法——如果学生不肯 Pair（和邻座讨论），或者讨论跑题了，你怎么处理？"
 
-*(This is an opportunity to show cultural and pedagogical awareness.)*
+*(测试你在失控环境下的课堂管理能力。)*
 
-"The principles themselves are universal — Sarasvathy studied US entrepreneurs, and her framework works globally. But my students at SIT are in Singapore. They live here, they'll start businesses here, their future customers are here.
+"这个分两种情况。
 
-"When a student sees Carousell as a case study — a company founded by three NUS students, in a HDB flat, using skills they learned at university — that student thinks: *'That could be me.'* If I used Silicon Valley examples exclusively, the response would be: *'That's America. That's not my world.'*
+"**不肯 Pair 的情况：** 我会先设置一个极短的时间（1 分钟），而且给出明确指令——'不用长篇大论，就说'我写的是 xxx'。'
 
-"Local cases drive self-efficacy. And self-efficacy — the belief that 'I can do this' — is one of the strongest predictors of entrepreneurial intention in first-year students. So the Singapore focus is pedagogically intentional, not just patriotic storytelling.
+"当任务很小、时间很短、要求很明确的时候，学生更容易愿意开口。这比说 '讨论这个' 然后等 5 分钟什么也不发生好得多。"
 
-"That said — the theoretical framework is international. Sarasvathy's original research, Dweck's growth mindset, Osterwalder's BMC — these are taught as-is. Only the *cases* are localized. Best of both worlds."
+"**跑题的情况：** 我一开始会给一个具体的讨论问题——'对比活动 A 和活动 B 的思考方式有什么不一样？' 而不是一个宽泛的 '你们聊聊这个'。
 
----
-
-### Q5: "How do you handle students who say 'I have nothing'?"
-
-*(This tests your coaching instincts.)*
-
-"I've had this happen. A student says: 'I don't have any resources. I'm just a student.'
-
-"My response: 'Great. That's exactly where we start.'
-
-"I then ask them to list everything they did in the past 24 hours. Every interaction. Every app they opened. Every problem they encountered. Every person they spoke to.
-
-"Instantly, they realize they're surrounded by potential starting points. They spoke to someone who's frustrated with a campus experience. They used an app that could be improved. They have knowledge of a domain — their own life — that nobody else has.
-
-"The Bird-in-Hand exercise is designed for exactly this moment. It's not an academic exercise — it's a coaching intervention. Every student at SIT has three things: a degree program, a network of classmates, and access to professors and resources. That's already more than the Carousell founders started with."
+"如果 30 秒后有人明显跑题了——我会说一句有方向的拉回话——'好，我提醒一下，现在讨论的是活动 A 和活动 B 的区别。有谁发现了一个区别？'"
 
 ---
 
-### Q6: "You removed the midterm pitch and final presentation. What's lost?"
+### Q3: "你整个 slides 里出现了很多 🔗 95% 连接点 的标记——那如果你班里有 5% 的同学真的想创业，你不怕他们觉得不够深入吗？"
 
-*(This is a values question — what do you care about in student learning?)*
+*(测试你是否兼顾了不同学生层次。)*
 
-"What's gained is more important than what's lost.
+"这个问题提得很好。我的应对是：**deep dive 时间留给课后的开放资源，而不是挤占课堂时间给全部学生做创业特训。**
 
-"The midterm pitch — 5 minutes per team — was largely a rehearsal in the original design. Students presented a draft BMC. We gave feedback. That's valuable, but it doesn't need a full class period. I've absorbed it into Week 6 as an informal 10-minute check-in.
+"那 5% 有创业动机的学生，我会在每节课的 homework 里设计 **'进阶挑战'**——比如：'如果你真的在创业试一试，你现在的 affordable loss 怎么算？你会用它怎么设计第一步？'
 
-"The final presentation — 7 minutes per team — was a performance. Some students love that. Some students dread it. And a compelling three-minute pitch says very little about whether a student understands unit economics or customer discovery.
+"他们也有一部分课件内容能让他们更深入（比如案例深挖、进阶级阅读材料放在 optional 区域）。但我不会用课堂的公共时间给极小部分学生专门做 start-up deep dive——这会浪费另外 95% 的人的时间。
 
-"My replacement — the take-home Business Plan — asks students to demonstrate the same synthesis skills, but in writing. And it removes the time pressure, the stage fright, and the production- value inequality (some teams make beautiful slides, some don't).
-
-"The university wants us to assess whether students can 'develop innovative solutions to challenges of different industries' — that's LO5. A written Business Plan does that just as well as a pitch. For some students, it does it better.
-
-"Students who want to practice pitching can do so through optional sessions, or through the entrepreneurship club. The graded assessment focuses on substance, not performance."
+"如果有个别同学觉得不够——等课的 office hour 或者课后找我单独聊。"
 
 ---
 
-### Q7: "How does Week 2 connect to the rest of the course?"
+### Q4: "你在多个关键讲解点标了 🧠 备选话术。如果用了第一套话术学生还是不理解，你会切换到第二套吗？怎么判断该不该切？"
 
-*(Show you've designed a coherent curriculum.)*
+*(测试你读取课堂氛围的能力。)*
 
-"In three ways.
+"对，我是提前准备了至少两套不同角度的解释——比如从学生自己的经来重新切入。我会通过观察来判断：
 
-"First, **conceptually.** Bird-in-Hand and Affordable Loss are the threshold concepts of this course. Every subsequent topic builds on them. When we teach customer discovery in Week 4, students are using Bird-in-Hand — 'who do I already know that I can interview?' When we teach MVP design in Week 6, students are applying Affordable Loss — 'what's the cheapest way to test my riskiest assumption?'
+"- 眼神：有没有人笑容消失、或者抬着眉毛？
+"- 身体语言：有没有人开始看手机、或者突然低头？
+"- 最直接的：有没有学生开始在邻座之间讲悄悄话——正常情况不会冷不丁开始私聊。
 
-"Second, **procedurally.** The 'My Effectual Profile' worksheet is not just a Week 2 exercise. Students will return to it when forming teams (Week 7) — 'does my Bird-in-Hand complement my teammate's Bird-in-Hand?' They'll return to it when building their BMC (Week 9) — 'what resources do I already have that go into my key resources block?'
+"如果有以上任何一种信号，我会立刻切到第二套话术——而不把同一个概念用不同的词再说一遍。换一个角度，用另一个常见的经验来重新讲一遍。"
 
-"Third, **reflectively.** The weekly reflection assignments start here. The first one — 'apply one effectuation principle to a decision you made' — sets the pattern for the entire semester. Each week, students connect a new concept to their lived experience.
+**(Rapid-fire follow-up): "换到第二套还不理解呢？"**
 
-"So Week 2 is not a standalone lecture. It's the bedrock that everything else sits on."
+"那就不可能再多解释了。直接在那个人旁边说：'下课后你来找我，我 30 秒和你说清楚。'——然后接着走。你不能为 1 个人停下全班 30 分钟。但在下课后专门花 30 秒和那个人讲一下，就足以解决这个问题而不会拖住其他人。"
 
 ---
 
-## Closing Notes
+### Q5: "你提到 '创业是教不会的，但创业思维是可以培养的'——那你怎么衡量学生有没有获得这种思维？"
 
-1. **Read this script aloud** at least 3 times before the interview. Not to memorize it — to find your natural voice in the words.
+*(测试你的评量策略。)*
 
-2. **Time yourself** — but don't be a slave to the timer. If one section runs short, the Q&A will absorb it.
+"我不考背诵。LO1 的原文是 **interpret（解释）**，不是 recite（背诵）。
 
-3. **The most important moment** is your opening 90 seconds. If you nail the \$5,000 challenge story, the committee will lean in. Practice that part until it feels effortless.
+"我的评测方式是：
 
-4. **Slide 16** — "Don't ask what you need, ask what you have" — is your landing. End on that. Don't follow it with more content.
+"- **每周的 250 字反思**：'用今天学的原则，分析你这一周的一个真实决定。'——这能看出他是不是真的在用这个思维方式。
 
-5. **During Q&A:** Listen fully, pause before answering, and never interrupt the questioner. The committee is watching how you handle yourself under pressure as much as what you say.
+"- **Week 6 的 MVP 测试计划**：'你的 risky assumption 是什么？你怎么用 affordable loss 来测试它？'——如果他能回答这个问题，他就真正内化了 effectual thinking。
 
-**You've got this. The material is solid. Now go deliver it.** 🛡️
+"- **期末商业计划中的 'effectual profile' 部分**：'你团队是怎么利用每个成员已有资源来推动这个计划的？'——这逼他们在最后阶段回溯整个学期的核心逻辑。"
+
+"这三层不只是考他想不想创业——是考他有没有培养出这个 '不管做什么都能分析自己有什么、能承受什么' 的思维方式。"
+
+---
+
+### Q6: "你的开场从 'Why Should I Care' 开始——如果学生听完还是说 '这关我什么事'，你怎么办？"
+
+*(测试你的应变和说服力。)*
+
+"如果有人这么直接了当，我会说很好——然后我问他：'你最近有没有做过的、让你觉得不舒服但还是做了的决定？'
+
+"无论他回答什么——选课、提交一份不知能不能行的作业、联系一个前辈——我就用他说的这件事来套 effectuation 框架：
+
+"'你决定做这件事的时候，有没有算过：'如果我做的这个决定最后没用，我会不会后悔？'
+
+"'那你的回答是什么？'
+
+"大部分学生会说是的、不会后悔。然后我说——这就是 affordable loss。你已经用了很长时间了。"
+
+"这就把他从一个 '不关我事' 的人变成了 '原来我已经在用这个思维了' 的人。语气要轻松、开玩笑式的，不要像老师教训学生。"
+
+---
+
+### Q7: "30 分钟你要在这个 slides 里做两个 Think-Pair-Share——时间怎么够？"
+
+*(测试你对节奏和时间的控制。)*
+
+"好问题。核心策略是：**TP-S 的 'P' 和 'S' 部分只给 1 分钟 + X 分钟的 'S' 极短分享**——不展开。
+
+"具体来说：
+
+"- **Think**：30-60 秒（严格计时）
+"- **Pair**：60 秒（严格计时，指令明确：'说关键点，不用讲故事'）
+"- **Share**：选 2-3 个回答，每个不超过 30-40 秒——'刚才你朋友得到的结论是什么？'——尽量短平快，不展开讨论。
+
+"整体流程是15分钟讲完概念活动，15分钟做交互环节。这对30分钟来说是最合适的分配。总时间控制在 25 分钟内，留 5 分钟缓冲。"
+
+"'万一项交互环节超出预期（比如学生回答得非常好），我会就地决定：如果值得展开，就牺牲第一个部分的理论时长，因为 **学生已经把理论说出来了**——那就是更好的教学。但他们一般不会说太久。在真实课堂里，学生分享的时候往往会自动收敛。"
+
+---
+
+## Closing Notes (更新版)
+
+1. **开场 30 秒决定了整节课的基调**。先用 "Why Should I Care" 把学生的保护屏障打破。
+
+2. **眼神比内容重要**。如果你在讲活动，学生会听。如果你只是在读 slide，他们不会。
+
+3. **Think-Pair-Share 不是可选装饰，是救场机制**。如果冷场发生在你身上，马上退到 Think 阶段，重新给指令。
+
+4. **如果 Q&A 中某个问题让你愣住，先深吸一口气**。任何低于 3 秒的回答速度在紧张时是你的假想。3 秒的停顿在别人看来是 '他在认真思考'，不是 '他傻了'。
+
+5. **结尾那句 '别问我缺什么——问我就有什么' 需要配合一个微笑或耸肩等肢体语言**。不要硬邦邦收尾。
+
+6. **随时准备一个 '我先说' 的示范**。如果你让学生做但没人回应，立刻开口说自己怎么做的这个练习。这永远是安全的下台阶。
+
+---
+
+*在你走到那个教室里之前，坐在你办公桌把开头读一遍。不用背全篇。重点是把教学节奏刻在你下意识的反应里。*
+
+**你已经准备好了。去讲就好。** 🛡️
